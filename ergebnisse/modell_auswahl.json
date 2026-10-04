@@ -1,0 +1,154 @@
+{
+  "Top3": [
+    {
+      "Candidate": "c0225",
+      "Modell": "KNN",
+      "Familie": "KNN",
+      "Merkmalsgruppe": "Titel + Familie + Logpreis",
+      "Parameter": {
+        "n_neighbors": 15,
+        "p": 2,
+        "weights": "uniform"
+      },
+      "CV-Accuracy": 0.8300009849305624,
+      "Fold-SD": 0.03197135277778205,
+      "CV-F1": 0.7584921525025227,
+      "CV-ROC AUC": 0.8743011357039571,
+      "CV-Brier": 0.1295490112391521,
+      "Training": 0.8412906607467703,
+      "Encoded columns": 20.0,
+      "Rank": 1,
+      "Gewählt": true,
+      "Gewinner-Rank": 1
+    },
+    {
+      "Candidate": "c0028",
+      "Modell": "Logistic Regression",
+      "Familie": "Logistic Regression",
+      "Merkmalsgruppe": "Titel + Familie + Logpreis",
+      "Parameter": {
+        "C": 0.1
+      },
+      "CV-Accuracy": 0.8286713286713286,
+      "Fold-SD": 0.024508300519295118,
+      "CV-F1": 0.7726035878054776,
+      "CV-ROC AUC": 0.8680682741732898,
+      "CV-Brier": 0.13388057725855135,
+      "Training": 0.8251379767520735,
+      "Encoded columns": 20.0,
+      "Rank": 2,
+      "Gewählt": false,
+      "Gewinner-Rank": 2
+    },
+    {
+      "Candidate": "c0105",
+      "Modell": "Extended Decision Tree",
+      "Familie": "Decision Tree",
+      "Merkmalsgruppe": "Alle entwickelten Merkmale",
+      "Parameter": {
+        "max_depth": 7,
+        "min_samples_leaf": 5
+      },
+      "CV-Accuracy": 0.8244952230867725,
+      "Fold-SD": 0.02043963489749507,
+      "CV-F1": 0.7516677269536908,
+      "CV-ROC AUC": 0.8296149583610399,
+      "CV-Brier": 0.14886196231241003,
+      "Training": 0.8788641198779021,
+      "Encoded columns": 42.2,
+      "Rank": 5,
+      "Gewählt": false,
+      "Gewinner-Rank": 3
+    }
+  ],
+  "Beste_Modelltypen": {
+    "Logistic Regression": {
+      "Candidate": "c0028",
+      "Modell": "Logistic Regression",
+      "Familie": "Logistic Regression",
+      "Merkmalsgruppe": "Titel + Familie + Logpreis",
+      "Parameter": {
+        "C": 0.1
+      },
+      "CV-Accuracy": 0.8286713286713286,
+      "Fold-SD": 0.024508300519295118,
+      "CV-F1": 0.7726035878054776,
+      "CV-ROC AUC": 0.8680682741732898,
+      "CV-Brier": 0.13388057725855135,
+      "Training": 0.8251379767520735,
+      "Encoded columns": 20.0,
+      "Rank": 2,
+      "Gewählt": false
+    },
+    "Shallow Decision Tree": {
+      "Candidate": "c0070",
+      "Modell": "Shallow Decision Tree",
+      "Familie": "Decision Tree",
+      "Merkmalsgruppe": "Titel + Familie + Logpreis",
+      "Parameter": {
+        "max_depth": 3,
+        "min_samples_leaf": 30
+      },
+      "CV-Accuracy": 0.8160740667782921,
+      "Fold-SD": 0.030720902369619236,
+      "CV-F1": 0.7400325363027926,
+      "CV-ROC AUC": 0.8578625993477091,
+      "CV-Brier": 0.13817404964843383,
+      "Training": 0.8230345635618044,
+      "Encoded columns": 20.0,
+      "Rank": 22,
+      "Gewählt": false
+    },
+    "Extended Decision Tree": {
+      "Candidate": "c0105",
+      "Modell": "Extended Decision Tree",
+      "Familie": "Decision Tree",
+      "Merkmalsgruppe": "Alle entwickelten Merkmale",
+      "Parameter": {
+        "max_depth": 7,
+        "min_samples_leaf": 5
+      },
+      "CV-Accuracy": 0.8244952230867725,
+      "Fold-SD": 0.02043963489749507,
+      "CV-F1": 0.7516677269536908,
+      "CV-ROC AUC": 0.8296149583610399,
+      "CV-Brier": 0.14886196231241003,
+      "Training": 0.8788641198779021,
+      "Encoded columns": 42.2,
+      "Rank": 5,
+      "Gewählt": false
+    },
+    "KNN": {
+      "Candidate": "c0225",
+      "Modell": "KNN",
+      "Familie": "KNN",
+      "Merkmalsgruppe": "Titel + Familie + Logpreis",
+      "Parameter": {
+        "n_neighbors": 15,
+        "p": 2,
+        "weights": "uniform"
+      },
+      "CV-Accuracy": 0.8300009849305624,
+      "Fold-SD": 0.03197135277778205,
+      "CV-F1": 0.7584921525025227,
+      "CV-ROC AUC": 0.8743011357039571,
+      "CV-Brier": 0.1295490112391521,
+      "Training": 0.8412906607467703,
+      "Encoded columns": 20.0,
+      "Rank": 1,
+      "Gewählt": true
+    }
+  },
+  "Auswahlregel": "Höchster mittlerer Anteil richtiger Vorhersagen je Ansatz; bei Gleichstand geringere Streuung, danach Kandidatenreihenfolge",
+  "Featuregruppen": 10,
+  "Modelle_in_Suche": 4,
+  "Konfigurationen_pro_Suche": 230,
+  "Modell": "KNN",
+  "Merkmalsgruppe": "Titel + Familie + Logpreis",
+  "Parameter": {
+    "n_neighbors": 15,
+    "p": 2,
+    "weights": "uniform"
+  },
+  "Auswahl_CV_Accuracy": 0.8300009849305624
+}

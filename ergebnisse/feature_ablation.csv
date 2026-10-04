@@ -1,0 +1,29 @@
+Modell,Vergleich,Genauigkeitsunterschied (Prozentpunkte)
+Logistic Regression,Status,0.0
+Logistic Regression,Alter fehlt,0.28070521028267237
+Logistic Regression,Familiengruppe,0.7002856298631066
+Logistic Regression,Kinderticket,-0.0009849305623865767
+Logistic Regression,Deck,0.5623953511277535
+Logistic Regression,Lage zusätzlich zum Deck,0.5623953511277424
+Logistic Regression,Alter fehlt zusätzlich zur Lage,-0.5614104205653558
+Shallow Decision Tree,Status,0.0
+Shallow Decision Tree,Alter fehlt,0.0
+Shallow Decision Tree,Familiengruppe,0.0
+Shallow Decision Tree,Kinderticket,0.0
+Shallow Decision Tree,Deck,-1.118881118881121
+Shallow Decision Tree,Lage zusätzlich zum Deck,0.0
+Shallow Decision Tree,Alter fehlt zusätzlich zur Lage,0.0
+Extended Decision Tree,Status,0.0
+Extended Decision Tree,Alter fehlt,0.0
+Extended Decision Tree,Familiengruppe,0.42352014182999165
+Extended Decision Tree,Kinderticket,0.0
+Extended Decision Tree,Deck,-1.406480843100577
+Extended Decision Tree,Lage zusätzlich zum Deck,0.7032404215502885
+Extended Decision Tree,Alter fehlt zusätzlich zur Lage,0.5604254900029471
+KNN,Status,0.13986013986014845
+KNN,Alter fehlt,0.0
+KNN,Familiengruppe,-0.14379986210972806
+KNN,Kinderticket,0.42450507239241153
+KNN,Deck,0.5643652122525489
+KNN,Lage zusätzlich zum Deck,0.14084507042251282
+KNN,Alter fehlt zusätzlich zur Lage,-0.7032404215502663

@@ -1,0 +1,4 @@
+Candidate,Modell,Familie,Merkmalsgruppe,Parameter,CV-Accuracy,Fold-SD,CV-F1,CV-ROC AUC,CV-Brier,Training,Encoded columns,Rank,Gewählt,Gewinner-Rank
+c0225,KNN,KNN,Titel + Familie + Logpreis,"{""n_neighbors"": 15, ""p"": 2, ""weights"": ""uniform""}",0.8300009849305624,0.03197135277778205,0.7584921525025227,0.8743011357039571,0.1295490112391521,0.8412906607467703,20.0,1,True,1
+c0028,Logistic Regression,Logistic Regression,Titel + Familie + Logpreis,"{""C"": 0.1}",0.8286713286713286,0.024508300519295118,0.7726035878054776,0.8680682741732898,0.13388057725855135,0.8251379767520735,20.0,2,False,2
+c0105,Extended Decision Tree,Decision Tree,Alle entwickelten Merkmale,"{""max_depth"": 7, ""min_samples_leaf"": 5}",0.8244952230867725,0.02043963489749507,0.7516677269536908,0.8296149583610399,0.14886196231241003,0.8788641198779021,42.2,5,False,3

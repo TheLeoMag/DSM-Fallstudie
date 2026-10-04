@@ -1,0 +1,21 @@
+Feature,Coefficient,Familie
+Age,-0.3149104463210789,Logistic Regression
+LogFahrpreisProPerson,0.4642254411034604,Logistic Regression
+Pclass_1,0.45799829423603833,Logistic Regression
+Pclass_2,0.06469947087039513,Logistic Regression
+Pclass_3,-0.5134985100977617,Logistic Regression
+Sex_female,0.6400152107039508,Logistic Regression
+Sex_male,-0.6308159556952789,Logistic Regression
+Embarked_C,0.05146723905314384,Logistic Regression
+Embarked_Q,0.19322609380273092,Logistic Regression
+Embarked_S,-0.2619528745069904,Logistic Regression
+Embarked_infrequent_sklearn,0.02645879665978712,Logistic Regression
+Titel_Master,0.40248104556054626,Logistic Regression
+Titel_Miss,0.16118286909405932,Logistic Regression
+Titel_Mr,-0.8865779386942282,Logistic Regression
+Titel_Mrs,0.43526385189671196,Logistic Regression
+Titel_Other,-0.10315057284841721,Logistic Regression
+Familiengruppe_2–4,0.3304543190821218,Logistic Regression
+Familiengruppe_5+,-0.6373822410024204,Logistic Regression
+Familiengruppe_Allein,0.31612717692897024,Logistic Regression
+AlterFehlt,-0.1269174694930608,Logistic Regression

@@ -1,0 +1,419 @@
+PassengerId,Sex,Pclass,Age,SibSp,Parch,Fare,Embarked,Ticket,Cabin,Kabinendeck,Kabinenposition,Kabinenlage,EliteStatus,HoherBerufsStatus,AlterFehlt,KabineFehlt,EinstiegFehlt,PreisFehlt,Familiengruppe,ErwachsenerKinderticket,Titel,LogFahrpreisProPerson
+892,male,3,34.5,0,0,7.8292,Q,330911,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.17806441028492
+893,female,3,47.0,1,0,7.0,S,363272,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.0794415416798357
+894,male,2,62.0,0,0,9.6875,Q,240276,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.3690748342628787
+895,male,3,27.0,0,0,8.6625,S,315154,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2682524139135403
+896,female,3,22.0,1,1,12.2875,S,3101298,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,1.9662378485609837
+897,male,3,14.0,0,0,9.225,S,7538,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.3248357019288655
+898,female,3,30.0,0,0,7.6292,Q,330972,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.155151800914312
+899,male,2,26.0,1,1,29.0,S,248738,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mr,2.367123614131617
+900,female,3,18.0,0,0,7.2292,C,2657,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,2.1076888046179385
+901,male,3,21.0,2,0,24.15,S,A/4 48871,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.2027647577118348
+902,male,3,,0,0,7.8958,S,349220,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1855792552411137
+903,male,1,46.0,0,0,26.0,S,694,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.295836866004329
+904,female,1,23.0,1,0,82.2667,S,21228,B45,B,Front,B-Front,0,0,0,0,0,0,2–4,0,Mrs,3.740839588614189
+905,male,2,63.0,1,0,26.0,S,24065,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.6390573296152584
+906,female,1,47.0,1,0,61.175,S,W.E.P. 5734,E31,E,Front,E-Front,0,0,0,0,0,0,2–4,0,Mrs,3.4527614727143128
+907,female,2,24.0,1,0,27.7208,C,SC/PARIS 2167,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.6986999568277366
+908,male,2,35.0,0,0,12.35,Q,233734,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.5915163848462583
+909,male,3,21.0,0,0,7.225,C,2692,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1071782966514356
+910,female,3,27.0,1,0,7.925,S,STON/O2. 3101270,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.188856327665703
+911,female,3,45.0,0,0,7.225,C,2696,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,2.1071782966514356
+912,male,1,55.0,1,0,59.4,C,PC 17603,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,3.4242626545931514
+913,male,3,9.0,0,1,3.1708,S,C 17368,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.428107863933301
+914,female,1,,0,0,31.6833,S,PC 17598,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mrs,3.4868642440859134
+915,male,1,21.0,0,1,61.3792,C,PC 17597,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,3.4559885513448463
+916,female,1,48.0,1,3,262.375,C,PC 17608,B57 B59 B63 B66,B,Unklar,B-Unklar,0,0,0,0,0,0,5+,1,Mrs,3.6501943118026987
+917,male,3,50.0,1,0,14.5,S,A/5. 3337,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.1102132003465894
+918,female,1,22.0,0,1,61.9792,C,113509,B36,B,Front,B-Front,0,0,0,0,0,0,2–4,0,Miss,3.465410849975781
+919,male,3,22.5,0,0,7.225,C,2698,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1071782966514356
+920,male,1,41.0,0,0,30.5,S,113054,A21,A,Front,A-Front,0,0,0,0,0,0,Allein,0,Mr,3.449987545831587
+921,male,3,,2,0,21.6792,C,2662,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.107348494932844
+922,male,2,50.0,1,0,26.0,S,SC/AH 3085,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.6390573296152584
+923,male,2,24.0,2,0,31.5,S,C.A. 31029,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.4423470353692043
+924,female,3,33.0,1,2,20.575,S,C.A. 2315,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,1.8154353049133396
+925,female,3,,1,2,23.45,S,W./C. 6607,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mrs,1.926071806835649
+926,male,1,30.0,1,0,57.75,C,13236,C78,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mr,3.397022010251675
+927,male,3,18.5,0,0,7.2292,C,2682,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1076888046179385
+928,female,3,,0,0,8.05,S,342712,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.2027647577118348
+929,female,3,21.0,0,0,8.6625,S,315087,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.2682524139135403
+930,male,3,25.0,0,0,9.5,S,345768,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.3513752571634776
+931,male,3,,0,0,56.4958,S,1601,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.087158563722664
+932,male,3,39.0,0,1,13.4167,C,349256,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mr,2.042304156890204
+933,male,1,,0,0,26.55,S,113778,D34,D,Front,D-Front,0,0,1,0,0,0,Allein,0,Mr,3.3160025355989236
+934,male,3,41.0,0,0,7.85,S,SOTON/O.Q. 3101263,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180417459019838
+935,female,2,30.0,0,0,13.0,S,237249,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,2.6390573296152584
+936,female,1,45.0,1,0,52.5542,S,11753,D19,D,Front,D-Front,0,0,0,0,0,0,2–4,0,Mrs,3.306047522339149
+937,male,3,25.0,0,0,7.925,S,STON/O 2. 3101291,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.188856327665703
+938,male,1,45.0,0,0,29.7,C,PC 17594,A9,A,Front,A-Front,0,0,0,0,0,0,Allein,0,Mr,3.4242626545931514
+939,male,3,,0,0,7.75,Q,370374,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+940,female,1,60.0,0,0,76.2917,C,11813,D15,D,Front,D-Front,0,0,0,0,0,0,Allein,0,Mrs,3.667294414263866
+941,female,3,36.0,0,2,15.9,S,C.A. 37671,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,1.840549633397487
+942,male,1,24.0,1,0,60.0,S,13695,C31,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mr,3.4339872044851463
+943,male,2,27.0,0,0,15.0333,C,SC/PARIS 2168,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.7746678094393658
+944,female,2,20.0,2,1,23.0,S,29105,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.5257286443082556
+945,female,1,28.0,3,2,263.0,S,19950,C23 C25 C27,C,Front,C-Front,0,0,0,0,0,0,5+,0,Miss,3.802951910373784
+946,male,2,,0,0,15.5792,C,SC/A.3 2861,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.808148897638332
+947,male,3,10.0,4,1,29.125,Q,382652,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Master,1.767153658425855
+948,male,3,35.0,0,0,7.8958,S,349230,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+949,male,3,25.0,0,0,7.65,S,348122,F G63,F,Heck,F-Heck,0,0,0,0,0,0,Allein,0,Mr,2.157559320943788
+950,male,3,,1,0,16.1,S,386525,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.2027647577118348
+951,female,1,36.0,0,0,262.375,C,PC 17608,B61,B,Heck,B-Heck,0,0,0,0,0,0,Allein,1,Miss,3.6501943118026987
+952,male,3,17.0,0,0,7.8958,S,349232,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+953,male,2,32.0,0,0,13.5,S,237216,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6741486494265287
+954,male,3,18.0,0,0,7.75,S,347090,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.169053700369523
+955,female,3,22.0,0,0,7.725,Q,334914,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.1661924680884908
+956,male,1,13.0,2,2,262.375,C,PC 17608,B57 B59 B63 B66,B,Unklar,B-Unklar,0,0,0,0,0,0,5+,0,Master,3.6501943118026987
+957,female,2,,0,0,21.0,S,F.C.C. 13534,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mrs,2.4423470353692043
+958,female,3,18.0,0,0,7.8792,Q,330963,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.1837114628556327
+959,male,1,47.0,0,0,42.4,S,113796,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.100092288878234
+960,male,1,31.0,0,0,28.5375,C,2543,C53,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Mr,3.3856606425130265
+961,female,1,60.0,1,4,263.0,S,19950,C23 C25 C27,C,Front,C-Front,0,0,0,0,0,0,5+,0,Mrs,3.802951910373784
+962,female,3,24.0,0,0,7.75,Q,382653,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.169053700369523
+963,male,3,21.0,0,0,7.8958,S,349211,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+964,female,3,29.0,0,0,7.925,S,3101297,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.188856327665703
+965,male,1,28.5,0,0,27.7208,C,PC 17562,D43,D,Front,D-Front,0,0,0,0,0,0,Allein,0,Mr,3.357621598945279
+966,female,1,35.0,0,0,211.5,C,113503,C130,C,Heck,C-Heck,0,0,0,0,0,0,Allein,0,Miss,3.768152635008444
+967,male,1,32.5,0,0,211.5,C,113503,C132,C,Heck,C-Heck,0,0,0,0,0,0,Allein,0,Mr,3.768152635008444
+968,male,3,,0,0,8.05,S,359306,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2027647577118348
+969,female,1,55.0,2,0,25.7,S,11770,C101,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,3.2846635654062037
+970,male,2,30.0,0,0,13.0,S,248744,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+971,female,3,24.0,0,0,7.75,Q,368702,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.169053700369523
+972,male,3,6.0,1,1,15.2458,C,2678,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.8053226278885095
+973,male,1,67.0,1,0,221.7792,S,PC 17483,C55 C57,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mr,4.033263169435021
+974,male,1,49.0,0,0,26.0,S,19924,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.295836866004329
+975,male,3,,0,0,7.8958,S,349238,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1855792552411137
+976,male,2,,0,0,10.7083,Q,240261,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.4602979920066583
+977,male,3,,1,0,14.4542,C,2660,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.107433583211985
+978,female,3,27.0,0,0,7.8792,Q,330844,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.1837114628556327
+979,female,3,18.0,0,0,8.05,S,A/4 31416,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.2027647577118348
+980,female,3,,0,0,7.75,Q,364856,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.169053700369523
+981,male,2,2.0,1,1,23.0,S,29103,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,2.1594842493533726
+982,female,3,22.0,1,0,13.9,S,347072,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.0731719286662407
+983,male,3,,0,0,7.775,S,345498,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1719067693519296
+984,female,1,27.0,1,2,52.0,S,F.C. 12750,B71,B,Heck,B-Heck,0,0,0,0,0,0,2–4,0,Mrs,3.295836866004329
+985,male,3,,0,0,8.05,S,376563,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2027647577118348
+986,male,1,25.0,0,0,26.0,C,13905,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.295836866004329
+987,male,3,25.0,0,0,7.7958,S,350033,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.174274334826008
+988,female,1,76.0,1,0,78.85,S,19877,C46,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,3.306276015149034
+989,male,3,29.0,0,0,7.925,S,STON/O 2. 3101268,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.188856327665703
+990,female,3,20.0,0,0,7.8542,S,347471,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.180891922715322
+991,male,3,33.0,0,0,8.05,S,A./5. 3338,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2027647577118348
+992,female,1,43.0,1,0,55.4417,C,11778,C116,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mrs,3.357623339842346
+993,male,2,27.0,1,0,26.0,S,228414,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.6390573296152584
+994,male,3,,0,0,7.75,Q,365235,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+995,male,3,26.0,0,0,7.775,S,347070,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1719067693519296
+996,female,3,16.0,1,1,8.5167,C,2625,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,1.659817289326252
+997,male,3,28.0,0,0,22.525,S,C 4001,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1410460753826195
+998,male,3,21.0,0,0,7.8208,Q,330920,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.177112568853282
+999,male,3,,0,0,7.75,Q,383162,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1000,male,3,,0,0,8.7125,S,3410,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2734137156937657
+1001,male,2,18.5,0,0,13.0,S,248734,F,F,Heck,F-Heck,0,0,0,0,0,0,Allein,0,Mr,2.6390573296152584
+1002,male,2,41.0,0,0,15.0458,C,237734,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.775447133088262
+1003,female,3,,0,0,7.7792,Q,330968,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.172385287322574
+1004,female,1,36.0,0,0,31.6792,C,PC 17531,A29,A,Front,A-Front,0,0,0,0,0,0,Allein,0,Miss,3.486738789888005
+1005,female,3,18.5,0,0,7.2833,Q,329944,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.114241439721562
+1006,female,1,63.0,1,0,221.7792,S,PC 17483,C55 C57,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,4.033263169435021
+1007,male,3,18.0,1,0,14.4542,C,2680,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.107433583211985
+1008,male,3,,0,0,6.4375,C,2681,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.006534770871748
+1009,female,3,1.0,1,1,16.7,S,PP 9549,G6,G,Heck,G-Heck,0,0,0,0,0,0,2–4,0,Miss,1.882006347075833
+1010,male,1,36.0,0,0,75.2417,C,13050,C6,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Mr,3.653792286079762
+1011,female,2,29.0,1,0,26.0,S,SC/AH 29037,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.6390573296152584
+1012,female,2,12.0,0,0,15.75,S,C.A. 33595,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.1832383353614797
+1013,male,3,,1,0,7.75,Q,367227,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.169053700369523
+1014,female,1,35.0,1,0,57.75,C,13236,C28,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,3.397022010251675
+1015,male,3,28.0,0,0,7.25,S,392095,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1102132003465894
+1016,male,3,,0,0,7.75,Q,368783,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1017,female,3,17.0,0,1,16.1,S,371362,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.2027647577118348
+1018,male,3,22.0,0,0,7.7958,S,350045,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.174274334826008
+1019,female,3,,2,0,23.25,Q,367226,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Miss,2.169053700369523
+1020,male,2,42.0,0,0,13.0,S,211535,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1021,male,3,24.0,0,0,8.05,S,342441,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2027647577118348
+1022,male,3,32.0,0,0,8.05,S,STON/OQ. 369943,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2027647577118348
+1023,male,1,53.0,0,0,28.5,C,113780,C51,C,Front,C-Front,0,1,0,0,0,0,Allein,0,Other,3.3843902633457743
+1024,female,3,,0,4,25.4667,S,4133,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,5+,0,Mrs,1.8071963714491994
+1025,male,3,,1,0,6.4375,C,2621,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.006534770871748
+1026,male,3,43.0,0,0,7.8958,S,349226,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+1027,male,3,24.0,0,0,7.8542,S,350409,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180891922715322
+1028,male,3,26.5,0,0,7.225,C,2656,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1071782966514356
+1029,male,2,26.0,0,0,13.0,S,248659,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1030,female,3,23.0,0,0,8.05,S,SOTON/OQ 392083,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.2027647577118348
+1031,male,3,40.0,1,6,46.9,S,CA 2144,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,1,Mr,1.926071806835649
+1032,female,3,10.0,5,2,46.9,S,CA 2144,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Miss,1.926071806835649
+1033,female,1,33.0,0,0,151.55,S,113781,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,1,Miss,3.267983398975229
+1034,male,1,61.0,1,3,262.375,C,PC 17608,B57 B59 B63 B66,B,Unklar,B-Unklar,0,0,0,0,0,0,5+,1,Mr,3.6501943118026987
+1035,male,2,28.0,0,0,26.0,S,244358,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1036,male,1,42.0,0,0,26.55,S,17475,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.3160025355989236
+1037,male,3,31.0,3,0,18.0,S,345763,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.302585092994046
+1038,male,1,,0,0,51.8625,S,17463,E46,E,Front,E-Front,0,0,1,0,0,0,Allein,0,Mr,3.293287322382011
+1039,male,3,22.0,0,0,8.05,S,SC/A4 23568,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2027647577118348
+1040,male,1,,0,0,26.55,S,113791,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,3.3160025355989236
+1041,male,2,30.0,1,1,26.0,S,250651,,Unbekannt,Unklar,Unbekannt,0,1,0,1,0,0,2–4,0,Other,2.6390573296152584
+1042,female,1,23.0,0,1,83.1583,C,11767,C54,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,3.357574013251851
+1043,male,3,,0,0,7.8958,C,349255,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1855792552411137
+1044,male,3,60.5,0,0,,S,3701,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,1,Allein,0,Mr,
+1045,female,3,36.0,0,2,12.1833,S,350405,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,1.9589180356123033
+1046,male,3,13.0,4,2,31.3875,S,347077,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Master,1.7018217367116275
+1047,male,3,24.0,0,0,7.55,S,S.O./P.P. 752,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.145931282948669
+1048,female,1,29.0,0,0,221.7792,S,PC 17483,C97,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Miss,4.033263169435021
+1049,female,3,23.0,0,0,7.8542,S,347469,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.180891922715322
+1050,male,1,42.0,0,0,26.55,S,110489,D22,D,Front,D-Front,0,0,0,0,0,0,Allein,0,Mr,3.3160025355989236
+1051,female,3,26.0,0,2,13.775,S,SOTON/O.Q. 3101315,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,1.7212773941896358
+1052,female,3,,0,0,7.7333,Q,335432,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.167143305297764
+1053,male,3,7.0,1,1,15.2458,C,2650,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.8053226278885095
+1054,female,2,26.0,0,0,13.5,S,220844,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.6741486494265287
+1055,male,3,,0,0,7.0,S,343271,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.0794415416798357
+1056,male,2,41.0,0,0,13.0,S,237393,,Unbekannt,Unklar,Unbekannt,0,1,0,1,0,0,Allein,0,Other,2.6390573296152584
+1057,female,3,26.0,1,1,22.025,S,315153,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,2.1212630365331746
+1058,male,1,48.0,0,0,50.4958,C,PC 17591,B10,B,Front,B-Front,0,0,0,0,0,0,Allein,0,Mr,3.941500250945973
+1059,male,3,18.0,2,2,34.375,S,W./C. 6608,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,1,Mr,2.063693184711697
+1060,female,1,,0,0,27.7208,C,17770,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mrs,3.357621598945279
+1061,female,3,22.0,0,0,8.9625,S,7548,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.2988280441163336
+1062,male,3,,0,0,7.55,S,S.O./P.P. 251,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.145931282948669
+1063,male,3,27.0,0,0,7.225,C,2670,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1071782966514356
+1064,male,3,23.0,1,0,13.9,S,347072,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.0731719286662407
+1065,male,3,,0,0,7.2292,C,2673,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1076888046179385
+1066,male,3,40.0,1,5,31.3875,S,347077,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,1,Mr,1.7018217367116275
+1067,female,2,15.0,0,2,39.0,S,29750,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.6390573296152584
+1068,female,2,20.0,0,0,36.75,S,C.A. 33112,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,1,Miss,2.321161478566981
+1069,male,1,54.0,1,0,55.4417,C,11778,C116,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mr,3.357623339842346
+1070,female,2,36.0,0,3,39.0,S,230136,F4,F,Heck,F-Heck,0,0,0,0,0,0,2–4,1,Mrs,2.3749057545736716
+1071,female,1,64.0,0,2,83.1583,C,PC 17756,E45,E,Front,E-Front,0,0,0,0,0,0,2–4,0,Mrs,3.357574013251851
+1072,male,2,30.0,0,0,13.0,S,233478,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1073,male,1,37.0,1,1,83.1583,C,PC 17756,E52,E,Heck,E-Heck,0,0,0,0,0,0,2–4,0,Mr,3.357574013251851
+1074,female,1,18.0,1,0,53.1,S,113773,D30,D,Front,D-Front,0,0,0,0,0,0,2–4,0,Mrs,3.3160025355989236
+1075,male,3,,0,0,7.75,Q,7935,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1076,female,1,27.0,1,1,247.5208,C,PC 17558,B58 B60,B,Unklar,B-Unklar,0,0,0,0,0,0,2–4,0,Mrs,4.424929662341819
+1077,male,2,40.0,0,0,16.0,S,239059,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.833213344056216
+1078,female,2,21.0,0,1,21.0,S,S.O./P.P. 2,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.4423470353692043
+1079,male,3,17.0,2,0,8.05,S,A/4 48873,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.2027647577118348
+1080,female,3,,8,2,69.55,S,CA. 2343,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,5+,0,Miss,1.9909828368246127
+1081,male,2,40.0,0,0,13.0,S,28221,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1082,male,2,34.0,1,0,26.0,S,226875,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.6390573296152584
+1083,male,1,,0,0,26.0,S,111163,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,3.295836866004329
+1084,male,3,11.5,1,1,14.5,S,A/5. 851,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.7635885922613586
+1085,male,2,61.0,0,0,12.35,Q,235509,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.5915163848462583
+1086,male,2,8.0,0,2,32.5,S,28220,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,2.4709204078132605
+1087,male,3,33.0,0,0,7.8542,S,347465,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180891922715322
+1088,male,1,6.0,0,2,134.5,C,16966,E34,E,Front,E-Front,0,0,0,0,0,0,2–4,0,Master,3.32862668882732
+1089,female,3,18.0,0,0,7.775,S,347066,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.1719067693519296
+1090,male,2,23.0,0,0,10.5,S,C.A. 31030,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1091,female,3,,0,0,8.1125,S,65305,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mrs,2.2096470973347766
+1092,female,3,,0,0,15.5,Q,36568,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.169053700369523
+1093,male,3,0.33,0,2,14.4,S,347080,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.7578579175523736
+1094,male,1,47.0,1,0,227.525,C,PC 17757,C62 C64,C,Front,C-Front,0,1,0,0,0,0,2–4,0,Other,3.8395598336944303
+1095,female,2,8.0,1,1,26.0,S,26360,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.268683541318364
+1096,male,2,25.0,0,0,10.5,S,C.A. 34050,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1097,male,1,,0,0,25.7417,C,F.C. 12998,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,3.286224144821269
+1098,female,3,35.0,0,0,7.75,Q,9232,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.169053700369523
+1099,male,2,24.0,0,0,10.5,S,28034,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1100,female,1,33.0,0,0,27.7208,C,PC 17613,A11,A,Front,A-Front,0,0,0,0,0,0,Allein,0,Miss,3.357621598945279
+1101,male,3,25.0,0,0,7.8958,S,349250,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+1102,male,3,32.0,0,0,22.525,S,C 4001,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1410460753826195
+1103,male,3,,0,0,7.05,S,SOTON/O.Q. 3101308,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.0856720914304723
+1104,male,2,17.0,0,0,73.5,S,S.O.C. 14879,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1105,female,2,60.0,1,0,26.0,S,24065,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.6390573296152584
+1106,female,3,38.0,4,2,7.775,S,347091,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Miss,2.1719067693519296
+1107,male,1,42.0,0,0,42.5,S,113038,B11,B,Front,B-Front,0,0,0,0,0,0,Allein,0,Mr,3.7727609380946383
+1108,female,3,,0,0,7.8792,Q,330924,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.1837114628556327
+1109,male,1,57.0,1,1,164.8667,S,36928,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,3.742815285173949
+1110,female,1,50.0,1,1,211.5,C,113503,C80,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mrs,3.768152635008444
+1111,male,3,,0,0,8.05,S,32302,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2027647577118348
+1112,female,2,30.0,1,0,13.8583,C,SC/PARIS 2148,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.698558631668595
+1113,male,3,21.0,0,0,8.05,S,342684,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2027647577118348
+1114,female,2,22.0,0,0,10.5,S,W./C. 14266,F33,F,Heck,F-Heck,0,0,0,0,0,0,Allein,0,Mrs,2.4423470353692043
+1115,male,3,21.0,0,0,7.7958,S,350053,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.174274334826008
+1116,female,1,53.0,0,0,27.4458,C,PC 17606,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,3.34800052225782
+1117,female,3,,0,2,15.2458,C,2661,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mrs,1.8053226278885095
+1118,male,3,23.0,0,0,7.7958,S,350054,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.174274334826008
+1119,female,3,,0,0,7.75,Q,370368,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.169053700369523
+1120,male,3,40.5,0,0,15.1,S,C.A. 6212,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.145931282948669
+1121,male,2,36.0,0,0,13.0,S,242963,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1122,male,2,14.0,0,0,65.0,S,220845,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1123,female,1,21.0,0,0,26.55,S,113795,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,3.3160025355989236
+1124,male,3,21.0,1,0,6.4958,S,3101266,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.0143428636837015
+1125,male,3,,0,0,7.8792,Q,330971,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1837114628556327
+1126,male,1,39.0,1,0,71.2833,C,PC 17599,C85,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mr,3.6011855715430774
+1127,male,3,20.0,0,0,7.8542,S,350416,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180891922715322
+1128,male,1,64.0,1,0,75.25,C,110813,D37,D,Front,D-Front,0,0,0,0,0,0,2–4,0,Mr,3.6538997352179097
+1129,male,3,20.0,0,0,7.225,C,2679,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1071782966514356
+1130,female,2,18.0,1,1,13.0,S,250650,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.6390573296152584
+1131,female,1,48.0,1,0,106.425,C,PC 17761,C86,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mrs,3.5966270944088494
+1132,female,1,55.0,0,0,27.7208,C,112377,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,3.357621598945279
+1133,female,2,45.0,0,2,30.0,S,237789,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.772588722239781
+1134,male,1,45.0,1,1,134.5,C,16966,E34,E,Front,E-Front,0,0,0,0,0,0,2–4,1,Mr,3.32862668882732
+1135,male,3,,0,0,7.8875,S,3470,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.184645795129359
+1136,male,3,,1,2,23.45,S,W./C. 6607,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Master,1.926071806835649
+1137,male,1,41.0,1,0,51.8625,S,17464,D21,D,Front,D-Front,0,0,0,0,0,0,2–4,0,Mr,3.293287322382011
+1138,female,2,22.0,0,0,21.0,S,F.C.C. 13534,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,2.4423470353692043
+1139,male,2,42.0,1,1,32.5,S,28220,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mr,2.4709204078132605
+1140,female,2,29.0,1,0,26.0,S,26707,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.6390573296152584
+1141,female,3,,1,0,14.4542,C,2660,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mrs,2.107433583211985
+1142,female,2,0.92,1,2,27.75,S,C.A. 34651,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.07159836421881
+1143,male,3,20.0,0,0,7.925,S,SOTON/O2 3101284,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.188856327665703
+1144,male,1,27.0,1,0,136.7792,C,13508,C89,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mr,4.2397370003754595
+1145,male,3,24.0,0,0,9.325,S,7266,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.3345681388470965
+1146,male,3,32.5,0,0,9.5,S,345775,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.3513752571634776
+1147,male,3,,0,0,7.55,S,C.A. 42795,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.145931282948669
+1148,male,3,,0,0,7.75,Q,AQ/4 3130,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1149,male,3,28.0,0,0,8.05,S,363611,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2027647577118348
+1150,female,2,19.0,0,0,13.0,S,28404,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.6390573296152584
+1151,male,3,21.0,0,0,7.775,S,345501,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1719067693519296
+1152,male,3,36.5,1,0,17.4,S,345572,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.272125885509337
+1153,male,3,21.0,0,0,7.8542,S,350410,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180891922715322
+1154,female,2,29.0,0,2,23.0,S,29103,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,2.1594842493533726
+1155,female,3,1.0,1,1,12.1833,S,350405,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,1.9589180356123033
+1156,male,2,30.0,0,0,12.7375,C,C.A. 34644,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.62012931972974
+1157,male,3,,0,0,7.8958,S,349235,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1855792552411137
+1158,male,1,,0,0,0.0,S,112051,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,0.0
+1159,male,3,,0,0,7.55,S,C.A. 49867,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.145931282948669
+1160,female,3,,0,0,8.05,S,A. 2. 39186,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.2027647577118348
+1161,male,3,17.0,0,0,8.6625,S,315095,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2682524139135403
+1162,male,1,46.0,0,0,75.2417,C,13050,C6,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Mr,3.653792286079762
+1163,male,3,,0,0,7.75,Q,368573,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1164,female,1,26.0,1,0,136.7792,C,13508,C89,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mrs,4.2397370003754595
+1165,female,3,,1,0,15.5,Q,370371,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Miss,2.169053700369523
+1166,male,3,,0,0,7.225,C,2676,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1071782966514356
+1167,female,2,20.0,1,0,26.0,S,236853,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.6390573296152584
+1168,male,2,28.0,0,0,10.5,S,SC 14888,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1169,male,2,40.0,1,0,26.0,S,2926,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.6390573296152584
+1170,male,2,30.0,1,0,21.0,S,CA 31352,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.4423470353692043
+1171,male,2,22.0,0,0,10.5,S,W./C. 14260,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1172,female,3,23.0,0,0,8.6625,S,315085,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.2682524139135403
+1173,male,3,0.75,1,1,13.775,S,SOTON/O.Q. 3101315,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.7212773941896358
+1174,female,3,,0,0,7.75,Q,364859,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.169053700369523
+1175,female,3,9.0,1,1,15.2458,C,2650,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,1.8053226278885095
+1176,female,3,2.0,1,1,20.2125,S,370129,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.0460786380107145
+1177,male,3,36.0,0,0,7.25,S,A/5 21175,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1102132003465894
+1178,male,3,,0,0,7.25,S,SOTON/O.Q. 3101314,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1102132003465894
+1179,male,1,24.0,1,0,82.2667,S,21228,B45,B,Front,B-Front,0,0,0,0,0,0,2–4,0,Mr,3.740839588614189
+1180,male,3,,0,0,7.2292,C,2655,F E46,F,Heck,F-Heck,0,0,1,0,0,0,Allein,0,Mr,2.1076888046179385
+1181,male,3,,0,0,8.05,S,A/5 1478,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2027647577118348
+1182,male,1,,0,0,39.6,S,PC 17607,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,3.703768066607687
+1183,female,3,30.0,0,0,6.95,Q,382650,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.0731719286662407
+1184,male,3,,0,0,7.2292,C,2652,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1076888046179385
+1185,male,1,53.0,1,1,81.8583,S,33638,A34,A,Front,A-Front,0,1,0,0,0,0,2–4,1,Other,3.342370517909884
+1186,male,3,36.0,0,0,9.5,S,345771,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.3513752571634776
+1187,male,3,26.0,0,0,7.8958,S,349202,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+1188,female,2,1.0,1,2,41.5792,C,SC/Paris 2123,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.4331571109859165
+1189,male,3,,2,0,21.6792,C,2662,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.107348494932844
+1190,male,1,30.0,0,0,45.5,S,113801,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.8394523125933104
+1191,male,3,29.0,0,0,7.8542,S,347467,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180891922715322
+1192,male,3,32.0,0,0,7.775,S,347079,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1719067693519296
+1193,male,2,,0,0,15.0458,C,237735,D,D,Unklar,D-Unklar,0,0,1,0,0,0,Allein,0,Mr,2.775447133088262
+1194,male,2,43.0,0,1,21.0,S,S.O./P.P. 2,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.4423470353692043
+1195,male,3,24.0,0,0,8.6625,S,315092,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2682524139135403
+1196,female,3,,0,0,7.75,Q,383123,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.169053700369523
+1197,female,1,64.0,1,1,26.55,S,112901,B26,B,Front,B-Front,0,0,0,0,0,0,2–4,0,Mrs,3.3160025355989236
+1198,male,1,30.0,1,2,151.55,S,113781,C22 C26,C,Front,C-Front,0,0,0,0,0,0,2–4,1,Mr,3.267983398975229
+1199,male,3,0.83,0,1,9.35,S,392091,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,1.7360705633674662
+1200,male,1,55.0,1,1,93.5,S,12749,B69,B,Heck,B-Heck,0,0,0,0,0,0,2–4,0,Mr,3.193558016883911
+1201,female,3,45.0,1,0,14.1083,S,350026,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.0861874865419017
+1202,male,3,18.0,0,0,8.6625,S,315091,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2682524139135403
+1203,male,3,22.0,0,0,7.225,C,2658,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1071782966514356
+1204,male,3,,0,0,7.575,S,LP 1588,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1488509930520037
+1205,female,3,37.0,0,0,7.75,Q,368364,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.169053700369523
+1206,female,1,55.0,0,0,135.6333,C,PC 17760,C32,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Mrs,3.552725339444502
+1207,female,3,17.0,0,0,7.7333,Q,AQ/3. 30631,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.167143305297764
+1208,male,1,57.0,1,0,146.5208,C,PC 17569,B78,B,Heck,B-Heck,0,0,0,0,0,0,2–4,0,Mr,3.908823224919673
+1209,male,2,19.0,0,0,10.5,S,28004,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1210,male,3,27.0,0,0,7.8542,S,350408,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.180891922715322
+1211,male,2,22.0,2,0,31.5,S,C.A. 31029,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.4423470353692043
+1212,male,3,26.0,0,0,7.775,S,347075,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1719067693519296
+1213,male,3,25.0,0,0,7.2292,C,2654,F E57,F,Heck,F-Heck,0,0,0,0,0,0,Allein,0,Mr,2.1076888046179385
+1214,male,2,26.0,0,0,13.0,S,244368,F2,F,Heck,F-Heck,0,0,0,0,0,0,Allein,0,Mr,2.6390573296152584
+1215,male,1,33.0,0,0,26.55,S,113790,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.3160025355989236
+1216,female,1,39.0,0,0,211.3375,S,24160,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,1,Miss,3.985912203652597
+1217,male,3,23.0,0,0,7.05,S,SOTON/O.Q. 3101309,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.0856720914304723
+1218,female,2,12.0,2,1,39.0,S,230136,F4,F,Heck,F-Heck,0,0,0,0,0,0,2–4,0,Miss,2.3749057545736716
+1219,male,1,46.0,0,0,79.2,C,PC 17585,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.703768066607687
+1220,male,2,29.0,1,0,26.0,S,2003,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.6390573296152584
+1221,male,2,21.0,0,0,13.0,S,236854,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1222,female,2,48.0,0,2,36.75,S,C.A. 33112,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,2.321161478566981
+1223,male,1,39.0,0,0,29.7,C,PC 17580,A18,A,Front,A-Front,0,0,0,0,0,0,Allein,0,Mr,3.4242626545931514
+1224,male,3,,0,0,7.225,C,2684,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1071782966514356
+1225,female,3,19.0,1,1,15.7417,C,2653,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,1.8321386990758308
+1226,male,3,27.0,0,0,7.8958,S,349229,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1855792552411137
+1227,male,1,30.0,0,0,26.0,S,110469,C106,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Mr,3.295836866004329
+1228,male,2,32.0,0,0,13.0,S,244360,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1229,male,3,39.0,0,2,7.2292,C,2675,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.1076888046179385
+1230,male,2,25.0,0,0,31.5,S,C.A. 31029,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1231,male,3,,0,0,7.2292,C,2622,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Master,2.1076888046179385
+1232,male,2,18.0,0,0,10.5,S,C.A. 15185,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1233,male,3,32.0,0,0,7.5792,S,350403,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.149340669059503
+1234,male,3,,1,9,69.55,S,CA. 2343,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,5+,0,Mr,1.9909828368246127
+1235,female,1,58.0,0,1,512.3292,C,PC 17755,B51 B53 B55,B,Front,B-Front,0,0,0,0,0,0,2–4,0,Mrs,4.860450185432205
+1236,male,3,,1,1,14.5,S,A/5. 851,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Master,1.7635885922613586
+1237,female,3,16.0,0,0,7.65,S,348125,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.157559320943788
+1238,male,2,26.0,0,0,13.0,S,237670,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1239,female,3,38.0,0,0,7.2292,C,2688,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,2.1076888046179385
+1240,male,2,24.0,0,0,13.5,S,248726,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6741486494265287
+1241,female,2,31.0,0,0,21.0,S,F.C.C. 13528,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.4423470353692043
+1242,female,1,45.0,0,1,63.3583,C,PC 17759,D10 D12,D,Front,D-Front,0,0,0,0,0,0,2–4,0,Mrs,3.48673725986162
+1243,male,2,25.0,0,0,10.5,S,F.C.C. 13540,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1244,male,2,18.0,0,0,73.5,S,S.O.C. 14879,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,1,Mr,2.4423470353692043
+1245,male,2,49.0,1,2,65.0,S,220845,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mr,2.6390573296152584
+1246,female,3,0.17,1,2,20.575,S,C.A. 2315,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,1.8154353049133396
+1247,male,1,50.0,0,0,26.0,S,113044,E60,E,Heck,E-Heck,0,0,0,0,0,0,Allein,0,Mr,3.295836866004329
+1248,female,1,59.0,2,0,51.4792,S,11769,C101,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,3.286145612698786
+1249,male,3,,0,0,7.8792,S,1222,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.1837114628556327
+1250,male,3,,0,0,7.75,Q,368402,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1251,female,3,30.0,1,0,15.55,S,349910,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.1719067693519296
+1252,male,3,14.5,8,2,69.55,S,CA. 2343,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Master,1.9909828368246127
+1253,female,2,24.0,1,1,37.0042,C,S.C./PARIS 2079,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Mrs,2.5903721599337124
+1254,female,2,31.0,0,0,21.0,S,CA 31352,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mrs,2.4423470353692043
+1255,male,3,27.0,0,0,8.6625,S,315083,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.2682524139135403
+1256,female,1,25.0,1,0,55.4417,C,11765,E50,E,Front,E-Front,0,0,0,0,0,0,2–4,0,Mrs,3.357623339842346
+1257,female,3,,1,9,69.55,S,CA. 2343,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,5+,0,Mrs,1.9909828368246127
+1258,male,3,,1,0,14.4583,C,2689,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Mr,2.107682728674724
+1259,female,3,22.0,0,0,39.6875,S,3101295,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,1,Miss,1.8975663138377228
+1260,female,1,45.0,0,1,59.4,C,112378,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,3.4242626545931514
+1261,male,2,29.0,0,0,13.8583,C,SC/PARIS 2147,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.698558631668595
+1262,male,2,21.0,1,0,11.5,S,28133,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.5257286443082556
+1263,female,1,31.0,0,0,134.5,C,16966,E39 E41,E,Front,E-Front,0,0,0,0,0,0,Allein,1,Miss,3.32862668882732
+1264,male,1,49.0,0,0,0.0,S,112058,B52 B54 B56,B,Front,B-Front,0,0,0,0,0,0,Allein,0,Mr,0.0
+1265,male,2,44.0,0,0,13.0,S,248746,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1266,female,1,54.0,1,1,81.8583,S,33638,A34,A,Front,A-Front,0,0,0,0,0,0,2–4,1,Mrs,3.342370517909884
+1267,female,1,45.0,0,0,262.375,C,PC 17608,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,1,Miss,3.6501943118026987
+1268,female,3,22.0,2,0,8.6625,S,315152,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,2.2682524139135403
+1269,male,2,21.0,0,0,11.5,S,29107,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.5257286443082556
+1270,male,1,55.0,0,0,50.0,S,680,C39,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Mr,3.9318256327243257
+1271,male,3,5.0,4,2,31.3875,S,347077,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Master,1.7018217367116275
+1272,male,3,,0,0,7.75,Q,366713,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.169053700369523
+1273,male,3,26.0,0,0,7.8792,Q,330910,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1837114628556327
+1274,female,3,,0,0,14.5,S,364498,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mrs,2.1102132003465894
+1275,female,3,19.0,1,0,16.1,S,376566,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mrs,2.2027647577118348
+1276,male,2,,0,0,12.875,S,SC/PARIS 2159,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.630088659632498
+1277,female,2,24.0,1,2,65.0,S,220845,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,1,Miss,2.6390573296152584
+1278,male,3,24.0,0,0,7.775,S,349911,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1719067693519296
+1279,male,2,57.0,0,0,13.0,S,244346,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.6390573296152584
+1280,male,3,21.0,0,0,7.75,Q,364858,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.169053700369523
+1281,male,3,6.0,3,1,21.075,S,349909,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,0,Master,1.6515390884527357
+1282,male,1,23.0,0,0,93.5,S,12749,B24,B,Front,B-Front,0,0,0,0,0,0,Allein,0,Mr,3.193558016883911
+1283,female,1,51.0,0,1,39.4,S,PC 17592,D28,D,Front,D-Front,0,0,0,0,0,0,2–4,1,Mrs,3.0301337002713233
+1284,male,3,13.0,0,2,20.25,S,C.A. 2673,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Master,2.0476928433652555
+1285,male,2,47.0,0,0,10.5,S,C.A. 30769,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.4423470353692043
+1286,male,3,29.0,3,1,22.025,S,315153,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,5+,1,Mr,2.1212630365331746
+1287,female,1,18.0,1,0,60.0,S,13695,C31,C,Front,C-Front,0,0,0,0,0,0,2–4,0,Mrs,3.4339872044851463
+1288,male,3,24.0,0,0,7.25,Q,371109,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1102132003465894
+1289,female,1,48.0,1,1,79.2,C,13567,B41,B,Front,B-Front,0,0,0,0,0,0,2–4,0,Mrs,3.703768066607687
+1290,male,3,22.0,0,0,7.775,S,347065,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1719067693519296
+1291,male,3,31.0,0,0,7.7333,Q,21332,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.167143305297764
+1292,female,1,30.0,0,0,164.8667,S,36928,C7,C,Front,C-Front,0,0,0,0,0,0,Allein,0,Miss,3.742815285173949
+1293,male,2,38.0,1,0,21.0,S,28664,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.4423470353692043
+1294,female,1,22.0,0,1,59.4,C,112378,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,3.4242626545931514
+1295,male,1,17.0,0,0,47.1,S,113059,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,3.2007118542405295
+1296,male,1,43.0,1,0,27.7208,C,17765,D40,D,Front,D-Front,0,0,0,0,0,0,2–4,0,Mr,3.357621598945279
+1297,male,2,20.0,0,0,13.8625,C,SC/PARIS 2166,D38,D,Front,D-Front,0,0,0,0,0,0,Allein,0,Mr,2.6988412620169004
+1298,male,2,23.0,1,0,10.5,S,28666,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Mr,2.4423470353692043
+1299,male,1,50.0,1,1,211.5,C,113503,C80,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mr,3.768152635008444
+1300,female,3,,0,0,7.7208,Q,334915,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.165710976832012
+1301,female,3,3.0,1,1,13.775,S,SOTON/O.Q. 3101315,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,2–4,0,Miss,1.7212773941896358
+1302,female,3,,0,0,7.75,Q,365237,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Miss,2.169053700369523
+1303,female,1,37.0,1,0,90.0,Q,19928,C78,C,Heck,C-Heck,0,0,0,0,0,0,2–4,0,Mrs,3.4339872044851463
+1304,female,3,28.0,0,0,7.775,S,347086,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Miss,2.1719067693519296
+1305,male,3,,0,0,8.05,S,A.5. 3236,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2027647577118348
+1306,female,1,39.0,0,0,108.9,C,PC 17758,C105,C,Front,C-Front,1,0,0,0,0,0,Allein,1,Other,3.61899332664977
+1307,male,3,38.5,0,0,7.25,S,SOTON/O.Q. 3101262,,Unbekannt,Unklar,Unbekannt,0,0,0,1,0,0,Allein,0,Mr,2.1102132003465894
+1308,male,3,,0,0,8.05,S,359309,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,Allein,0,Mr,2.2027647577118348
+1309,male,3,,1,1,22.3583,C,2668,,Unbekannt,Unklar,Unbekannt,0,0,1,1,0,0,2–4,0,Master,2.134493803953674

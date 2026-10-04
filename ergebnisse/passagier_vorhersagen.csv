@@ -1,0 +1,1255 @@
+PassengerId,Name,Sex,Pclass,Age,Methode,Überlebenswahrscheinlichkeit,Vorhergesagtüberlebt
+892,"Kelly, Mr. James",male,3,34.5,KNN,0.06666666666666667,0
+893,"Wilkes, Mrs. James (Ellen Needs)",female,3,47.0,KNN,0.3333333333333333,0
+894,"Myles, Mr. Thomas Francis",male,2,62.0,KNN,0.06666666666666667,0
+895,"Wirz, Mr. Albert",male,3,27.0,KNN,0.2,0
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,3,22.0,KNN,0.6,1
+897,"Svensson, Mr. Johan Cervin",male,3,14.0,KNN,0.13333333333333333,0
+898,"Connolly, Miss. Kate",female,3,30.0,KNN,0.6666666666666666,1
+899,"Caldwell, Mr. Albert Francis",male,2,26.0,KNN,0.06666666666666667,0
+900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,3,18.0,KNN,0.7333333333333333,1
+901,"Davies, Mr. John Samuel",male,3,21.0,KNN,0.13333333333333333,0
+902,"Ilieff, Mr. Ylio",male,3,,KNN,0.06666666666666667,0
+903,"Jones, Mr. Charles Cresson",male,1,46.0,KNN,0.4666666666666667,0
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,1,23.0,KNN,0.9333333333333333,1
+905,"Howard, Mr. Benjamin",male,2,63.0,KNN,0.13333333333333333,0
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,1,47.0,KNN,1.0,1
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,2,24.0,KNN,0.9333333333333333,1
+908,"Keane, Mr. Daniel",male,2,35.0,KNN,0.13333333333333333,0
+909,"Assaf, Mr. Gerios",male,3,21.0,KNN,0.26666666666666666,0
+910,"Ilmakangas, Miss. Ida Livija",female,3,27.0,KNN,0.3333333333333333,0
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,3,45.0,KNN,0.26666666666666666,0
+912,"Rothschild, Mr. Martin",male,1,55.0,KNN,0.2,0
+913,"Olsen, Master. Artur Karl",male,3,9.0,KNN,0.6,1
+914,"Flegenheim, Mrs. Alfred (Antoinette)",female,1,,KNN,0.9333333333333333,1
+915,"Williams, Mr. Richard Norris II",male,1,21.0,KNN,0.3333333333333333,0
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,1,48.0,KNN,1.0,1
+917,"Robins, Mr. Alexander A",male,3,50.0,KNN,0.06666666666666667,0
+918,"Ostby, Miss. Helene Ragnhild",female,1,22.0,KNN,1.0,1
+919,"Daher, Mr. Shedid",male,3,22.5,KNN,0.26666666666666666,0
+920,"Brady, Mr. John Bertram",male,1,41.0,KNN,0.5333333333333333,1
+921,"Samaan, Mr. Elias",male,3,,KNN,0.13333333333333333,0
+922,"Louch, Mr. Charles Alexander",male,2,50.0,KNN,0.06666666666666667,0
+923,"Jefferys, Mr. Clifford Thomas",male,2,24.0,KNN,0.13333333333333333,0
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,3,33.0,KNN,0.5333333333333333,1
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,3,,KNN,0.6666666666666666,1
+926,"Mock, Mr. Philipp Edmund",male,1,30.0,KNN,0.4,0
+927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,3,18.5,KNN,0.26666666666666666,0
+928,"Roth, Miss. Sarah A",female,3,,KNN,0.4666666666666667,0
+929,"Cacic, Miss. Manda",female,3,21.0,KNN,0.5333333333333333,1
+930,"Sap, Mr. Julius",male,3,25.0,KNN,0.13333333333333333,0
+931,"Hee, Mr. Ling",male,3,,KNN,0.13333333333333333,0
+932,"Karun, Mr. Franz",male,3,39.0,KNN,0.0,0
+933,"Franklin, Mr. Thomas Parham",male,1,,KNN,0.4,0
+934,"Goldsmith, Mr. Nathan",male,3,41.0,KNN,0.13333333333333333,0
+935,"Corbett, Mrs. Walter H (Irene Colvin)",female,2,30.0,KNN,1.0,1
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,1,45.0,KNN,1.0,1
+937,"Peltomaki, Mr. Nikolai Johannes",male,3,25.0,KNN,0.06666666666666667,0
+938,"Chevre, Mr. Paul Romaine",male,1,45.0,KNN,0.3333333333333333,0
+939,"Shaughnessy, Mr. Patrick",male,3,,KNN,0.06666666666666667,0
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,1,60.0,KNN,0.9333333333333333,1
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,3,36.0,KNN,0.5333333333333333,1
+942,"Smith, Mr. Lucien Philip",male,1,24.0,KNN,0.5333333333333333,1
+943,"Pulbaum, Mr. Franz",male,2,27.0,KNN,0.06666666666666667,0
+944,"Hocking, Miss. Ellen Nellie""""",female,2,20.0,KNN,0.9333333333333333,1
+945,"Fortune, Miss. Ethel Flora",female,1,28.0,KNN,1.0,1
+946,"Mangiavacchi, Mr. Serafino Emilio",male,2,,KNN,0.26666666666666666,0
+947,"Rice, Master. Albert",male,3,10.0,KNN,0.06666666666666667,0
+948,"Cor, Mr. Bartol",male,3,35.0,KNN,0.06666666666666667,0
+949,"Abelseth, Mr. Olaus Jorgensen",male,3,25.0,KNN,0.0,0
+950,"Davison, Mr. Thomas Henry",male,3,,KNN,0.06666666666666667,0
+951,"Chaudanson, Miss. Victorine",female,1,36.0,KNN,1.0,1
+952,"Dika, Mr. Mirko",male,3,17.0,KNN,0.13333333333333333,0
+953,"McCrae, Mr. Arthur Gordon",male,2,32.0,KNN,0.13333333333333333,0
+954,"Bjorklund, Mr. Ernst Herbert",male,3,18.0,KNN,0.13333333333333333,0
+955,"Bradley, Miss. Bridget Delia",female,3,22.0,KNN,0.7333333333333333,1
+956,"Ryerson, Master. John Borie",male,1,13.0,KNN,0.6,1
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,2,,KNN,0.9333333333333333,1
+958,"Burns, Miss. Mary Delia",female,3,18.0,KNN,0.8,1
+959,"Moore, Mr. Clarence Bloomfield",male,1,47.0,KNN,0.4,0
+960,"Tucker, Mr. Gilbert Milligan Jr",male,1,31.0,KNN,0.4,0
+961,"Fortune, Mrs. Mark (Mary McDougald)",female,1,60.0,KNN,0.9333333333333333,1
+962,"Mulvihill, Miss. Bertha E",female,3,24.0,KNN,0.7333333333333333,1
+963,"Minkoff, Mr. Lazar",male,3,21.0,KNN,0.06666666666666667,0
+964,"Nieminen, Miss. Manta Josefina",female,3,29.0,KNN,0.5333333333333333,1
+965,"Ovies y Rodriguez, Mr. Servando",male,1,28.5,KNN,0.4,0
+966,"Geiger, Miss. Amalie",female,1,35.0,KNN,1.0,1
+967,"Keeping, Mr. Edwin",male,1,32.5,KNN,0.4,0
+968,"Miles, Mr. Frank",male,3,,KNN,0.13333333333333333,0
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,1,55.0,KNN,1.0,1
+970,"Aldworth, Mr. Charles Augustus",male,2,30.0,KNN,0.13333333333333333,0
+971,"Doyle, Miss. Elizabeth",female,3,24.0,KNN,0.7333333333333333,1
+972,"Boulos, Master. Akar",male,3,6.0,KNN,0.8,1
+973,"Straus, Mr. Isidor",male,1,67.0,KNN,0.26666666666666666,0
+974,"Case, Mr. Howard Brown",male,1,49.0,KNN,0.26666666666666666,0
+975,"Demetri, Mr. Marinko",male,3,,KNN,0.06666666666666667,0
+976,"Lamb, Mr. John Joseph",male,2,,KNN,0.2,0
+977,"Khalil, Mr. Betros",male,3,,KNN,0.13333333333333333,0
+978,"Barry, Miss. Julia",female,3,27.0,KNN,0.7333333333333333,1
+979,"Badman, Miss. Emily Louisa",female,3,18.0,KNN,0.4666666666666667,0
+980,"O'Donoghue, Ms. Bridget",female,3,,KNN,0.8666666666666667,1
+981,"Wells, Master. Ralph Lester",male,2,2.0,KNN,0.9333333333333333,1
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,3,22.0,KNN,0.6,1
+983,"Pedersen, Mr. Olaf",male,3,,KNN,0.06666666666666667,0
+984,"Davidson, Mrs. Thornton (Orian Hays)",female,1,27.0,KNN,0.9333333333333333,1
+985,"Guest, Mr. Robert",male,3,,KNN,0.13333333333333333,0
+986,"Birnbaum, Mr. Jakob",male,1,25.0,KNN,0.4666666666666667,0
+987,"Tenglin, Mr. Gunnar Isidor",male,3,25.0,KNN,0.06666666666666667,0
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,1,76.0,KNN,0.9333333333333333,1
+989,"Makinen, Mr. Kalle Edvard",male,3,29.0,KNN,0.06666666666666667,0
+990,"Braf, Miss. Elin Ester Maria",female,3,20.0,KNN,0.4666666666666667,0
+991,"Nancarrow, Mr. William Henry",male,3,33.0,KNN,0.3333333333333333,0
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,1,43.0,KNN,1.0,1
+993,"Weisz, Mr. Leopold",male,2,27.0,KNN,0.06666666666666667,0
+994,"Foley, Mr. William",male,3,,KNN,0.06666666666666667,0
+995,"Johansson Palmquist, Mr. Oskar Leander",male,3,26.0,KNN,0.2,0
+996,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,3,16.0,KNN,0.6,1
+997,"Holthen, Mr. Johan Martin",male,3,28.0,KNN,0.2,0
+998,"Buckley, Mr. Daniel",male,3,21.0,KNN,0.06666666666666667,0
+999,"Ryan, Mr. Edward",male,3,,KNN,0.06666666666666667,0
+1000,"Willer, Mr. Aaron (Abi Weller"")""",male,3,,KNN,0.2,0
+1001,"Swane, Mr. George",male,2,18.5,KNN,0.06666666666666667,0
+1002,"Stanton, Mr. Samuel Ward",male,2,41.0,KNN,0.2,0
+1003,"Shine, Miss. Ellen Natalia",female,3,,KNN,0.9333333333333333,1
+1004,"Evans, Miss. Edith Corse",female,1,36.0,KNN,0.9333333333333333,1
+1005,"Buckley, Miss. Katherine",female,3,18.5,KNN,0.7333333333333333,1
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,1,63.0,KNN,1.0,1
+1007,"Chronopoulos, Mr. Demetrios",male,3,18.0,KNN,0.13333333333333333,0
+1008,"Thomas, Mr. John",male,3,,KNN,0.06666666666666667,0
+1009,"Sandstrom, Miss. Beatrice Irene",female,3,1.0,KNN,0.7333333333333333,1
+1010,"Beattie, Mr. Thomson",male,1,36.0,KNN,0.4,0
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,2,29.0,KNN,0.9333333333333333,1
+1012,"Watt, Miss. Bertha J",female,2,12.0,KNN,0.9333333333333333,1
+1013,"Kiernan, Mr. John",male,3,,KNN,0.06666666666666667,0
+1014,"Schabert, Mrs. Paul (Emma Mock)",female,1,35.0,KNN,1.0,1
+1015,"Carver, Mr. Alfred John",male,3,28.0,KNN,0.13333333333333333,0
+1016,"Kennedy, Mr. John",male,3,,KNN,0.06666666666666667,0
+1017,"Cribb, Miss. Laura Alice",female,3,17.0,KNN,0.6,1
+1018,"Brobeck, Mr. Karl Rudolf",male,3,22.0,KNN,0.06666666666666667,0
+1019,"McCoy, Miss. Alicia",female,3,,KNN,0.7333333333333333,1
+1020,"Bowenur, Mr. Solomon",male,2,42.0,KNN,0.13333333333333333,0
+1021,"Petersen, Mr. Marius",male,3,24.0,KNN,0.06666666666666667,0
+1022,"Spinner, Mr. Henry John",male,3,32.0,KNN,0.4,0
+1023,"Gracie, Col. Archibald IV",male,1,53.0,KNN,0.4,0
+1024,"Lefebre, Mrs. Frank (Frances)",female,3,,KNN,0.2,0
+1025,"Thomas, Mr. Charles P",male,3,,KNN,0.13333333333333333,0
+1026,"Dintcheff, Mr. Valtcho",male,3,43.0,KNN,0.2,0
+1027,"Carlsson, Mr. Carl Robert",male,3,24.0,KNN,0.06666666666666667,0
+1028,"Zakarian, Mr. Mapriededer",male,3,26.5,KNN,0.26666666666666666,0
+1029,"Schmidt, Mr. August",male,2,26.0,KNN,0.0,0
+1030,"Drapkin, Miss. Jennie",female,3,23.0,KNN,0.5333333333333333,1
+1031,"Goodwin, Mr. Charles Frederick",male,3,40.0,KNN,0.06666666666666667,0
+1032,"Goodwin, Miss. Jessie Allis",female,3,10.0,KNN,0.13333333333333333,0
+1033,"Daniels, Miss. Sarah",female,1,33.0,KNN,1.0,1
+1034,"Ryerson, Mr. Arthur Larned",male,1,61.0,KNN,0.26666666666666666,0
+1035,"Beauchamp, Mr. Henry James",male,2,28.0,KNN,0.06666666666666667,0
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,1,42.0,KNN,0.5333333333333333,1
+1037,"Vander Planke, Mr. Julius",male,3,31.0,KNN,0.0,0
+1038,"Hilliard, Mr. Herbert Henry",male,1,,KNN,0.4,0
+1039,"Davies, Mr. Evan",male,3,22.0,KNN,0.0,0
+1040,"Crafton, Mr. John Bertram",male,1,,KNN,0.4,0
+1041,"Lahtinen, Rev. William",male,2,30.0,KNN,0.06666666666666667,0
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",female,1,23.0,KNN,0.9333333333333333,1
+1043,"Matinoff, Mr. Nicola",male,3,,KNN,0.06666666666666667,0
+1044,"Storey, Mr. Thomas",male,3,60.5,KNN,0.06666666666666667,0
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,3,36.0,KNN,0.4666666666666667,0
+1046,"Asplund, Master. Filip Oscar",male,3,13.0,KNN,0.06666666666666667,0
+1047,"Duquemin, Mr. Joseph",male,3,24.0,KNN,0.06666666666666667,0
+1048,"Bird, Miss. Ellen",female,1,29.0,KNN,0.9333333333333333,1
+1049,"Lundin, Miss. Olga Elida",female,3,23.0,KNN,0.5333333333333333,1
+1050,"Borebank, Mr. John James",male,1,42.0,KNN,0.5333333333333333,1
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",female,3,26.0,KNN,0.6,1
+1052,"Smyth, Miss. Julia",female,3,,KNN,0.8666666666666667,1
+1053,"Touma, Master. Georges Youssef",male,3,7.0,KNN,0.8,1
+1054,"Wright, Miss. Marion",female,2,26.0,KNN,0.8666666666666667,1
+1055,"Pearce, Mr. Ernest",male,3,,KNN,0.06666666666666667,0
+1056,"Peruschitz, Rev. Joseph Maria",male,2,41.0,KNN,0.06666666666666667,0
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,3,26.0,KNN,0.6,1
+1058,"Brandeis, Mr. Emil",male,1,48.0,KNN,0.2,0
+1059,"Ford, Mr. Edward Watson",male,3,18.0,KNN,0.13333333333333333,0
+1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,1,,KNN,1.0,1
+1061,"Hellstrom, Miss. Hilda Maria",female,3,22.0,KNN,0.5333333333333333,1
+1062,"Lithman, Mr. Simon",male,3,,KNN,0.06666666666666667,0
+1063,"Zakarian, Mr. Ortin",male,3,27.0,KNN,0.26666666666666666,0
+1064,"Dyker, Mr. Adolf Fredrik",male,3,23.0,KNN,0.13333333333333333,0
+1065,"Torfa, Mr. Assad",male,3,,KNN,0.06666666666666667,0
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,3,40.0,KNN,0.06666666666666667,0
+1067,"Brown, Miss. Edith Eileen",female,2,15.0,KNN,1.0,1
+1068,"Sincock, Miss. Maude",female,2,20.0,KNN,0.8666666666666667,1
+1069,"Stengel, Mr. Charles Emil Henry",male,1,54.0,KNN,0.2,0
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,2,36.0,KNN,0.8666666666666667,1
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,1,64.0,KNN,0.9333333333333333,1
+1072,"McCrie, Mr. James Matthew",male,2,30.0,KNN,0.13333333333333333,0
+1073,"Compton, Mr. Alexander Taylor Jr",male,1,37.0,KNN,0.4,0
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,1,18.0,KNN,0.9333333333333333,1
+1075,"Lane, Mr. Patrick",male,3,,KNN,0.06666666666666667,0
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,1,27.0,KNN,0.9333333333333333,1
+1077,"Maybery, Mr. Frank Hubert",male,2,40.0,KNN,0.2,0
+1078,"Phillips, Miss. Alice Frances Louisa",female,2,21.0,KNN,0.9333333333333333,1
+1079,"Davies, Mr. Joseph",male,3,17.0,KNN,0.13333333333333333,0
+1080,"Sage, Miss. Ada",female,3,,KNN,0.13333333333333333,0
+1081,"Veal, Mr. James",male,2,40.0,KNN,0.13333333333333333,0
+1082,"Angle, Mr. William A",male,2,34.0,KNN,0.06666666666666667,0
+1083,"Salomon, Mr. Abraham L",male,1,,KNN,0.4,0
+1084,"van Billiard, Master. Walter John",male,3,11.5,KNN,0.6,1
+1085,"Lingane, Mr. John",male,2,61.0,KNN,0.13333333333333333,0
+1086,"Drew, Master. Marshall Brines",male,2,8.0,KNN,0.8,1
+1087,"Karlsson, Mr. Julius Konrad Eugen",male,3,33.0,KNN,0.4,0
+1088,"Spedden, Master. Robert Douglas",male,1,6.0,KNN,0.7333333333333333,1
+1089,"Nilsson, Miss. Berta Olivia",female,3,18.0,KNN,0.4666666666666667,0
+1090,"Baimbrigge, Mr. Charles Robert",male,2,23.0,KNN,0.06666666666666667,0
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,3,,KNN,0.5333333333333333,1
+1092,"Murphy, Miss. Nora",female,3,,KNN,0.8666666666666667,1
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",male,3,0.33,KNN,0.8,1
+1094,"Astor, Col. John Jacob",male,1,47.0,KNN,0.4666666666666667,0
+1095,"Quick, Miss. Winifred Vera",female,2,8.0,KNN,0.9333333333333333,1
+1096,"Andrew, Mr. Frank Thomas",male,2,25.0,KNN,0.0,0
+1097,"Omont, Mr. Alfred Fernand",male,1,,KNN,0.3333333333333333,0
+1098,"McGowan, Miss. Katherine",female,3,35.0,KNN,0.8,1
+1099,"Collett, Mr. Sidney C Stuart",male,2,24.0,KNN,0.06666666666666667,0
+1100,"Rosenbaum, Miss. Edith Louise",female,1,33.0,KNN,0.9333333333333333,1
+1101,"Delalic, Mr. Redjo",male,3,25.0,KNN,0.06666666666666667,0
+1102,"Andersen, Mr. Albert Karvin",male,3,32.0,KNN,0.26666666666666666,0
+1103,"Finoli, Mr. Luigi",male,3,,KNN,0.06666666666666667,0
+1104,"Deacon, Mr. Percy William",male,2,17.0,KNN,0.06666666666666667,0
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,2,60.0,KNN,0.8666666666666667,1
+1106,"Andersson, Miss. Ida Augusta Margareta",female,3,38.0,KNN,0.06666666666666667,0
+1107,"Head, Mr. Christopher",male,1,42.0,KNN,0.5333333333333333,1
+1108,"Mahon, Miss. Bridget Delia",female,3,,KNN,0.9333333333333333,1
+1109,"Wick, Mr. George Dennick",male,1,57.0,KNN,0.26666666666666666,0
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,1,50.0,KNN,1.0,1
+1111,"Thomson, Mr. Alexander Morrison",male,3,,KNN,0.13333333333333333,0
+1112,"Duran y More, Miss. Florentina",female,2,30.0,KNN,0.8666666666666667,1
+1113,"Reynolds, Mr. Harold J",male,3,21.0,KNN,0.06666666666666667,0
+1114,"Cook, Mrs. (Selena Rogers)",female,2,22.0,KNN,0.8666666666666667,1
+1115,"Karlsson, Mr. Einar Gervasius",male,3,21.0,KNN,0.06666666666666667,0
+1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,1,53.0,KNN,0.8666666666666667,1
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,3,,KNN,0.6666666666666666,1
+1118,"Asplund, Mr. Johan Charles",male,3,23.0,KNN,0.0,0
+1119,"McNeill, Miss. Bridget",female,3,,KNN,0.8666666666666667,1
+1120,"Everett, Mr. Thomas James",male,3,40.5,KNN,0.2,0
+1121,"Hocking, Mr. Samuel James Metcalfe",male,2,36.0,KNN,0.2,0
+1122,"Sweet, Mr. George Frederick",male,2,14.0,KNN,0.0,0
+1123,"Willard, Miss. Constance",female,1,21.0,KNN,1.0,1
+1124,"Wiklund, Mr. Karl Johan",male,3,21.0,KNN,0.13333333333333333,0
+1125,"Linehan, Mr. Michael",male,3,,KNN,0.06666666666666667,0
+1126,"Cumings, Mr. John Bradley",male,1,39.0,KNN,0.4666666666666667,0
+1127,"Vendel, Mr. Olof Edvin",male,3,20.0,KNN,0.06666666666666667,0
+1128,"Warren, Mr. Frank Manley",male,1,64.0,KNN,0.2,0
+1129,"Baccos, Mr. Raffull",male,3,20.0,KNN,0.26666666666666666,0
+1130,"Hiltunen, Miss. Marta",female,2,18.0,KNN,1.0,1
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,1,48.0,KNN,1.0,1
+1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,1,55.0,KNN,0.8666666666666667,1
+1133,"Christy, Mrs. (Alice Frances)",female,2,45.0,KNN,0.8666666666666667,1
+1134,"Spedden, Mr. Frederic Oakley",male,1,45.0,KNN,0.3333333333333333,0
+1135,"Hyman, Mr. Abraham",male,3,,KNN,0.06666666666666667,0
+1136,"Johnston, Master. William Arthur Willie""""",male,3,,KNN,0.13333333333333333,0
+1137,"Kenyon, Mr. Frederick R",male,1,41.0,KNN,0.3333333333333333,0
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",female,2,22.0,KNN,0.8666666666666667,1
+1139,"Drew, Mr. James Vivian",male,2,42.0,KNN,0.26666666666666666,0
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,2,29.0,KNN,0.9333333333333333,1
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,3,,KNN,0.7333333333333333,1
+1142,"West, Miss. Barbara J",female,2,0.92,KNN,0.8666666666666667,1
+1143,"Abrahamsson, Mr. Abraham August Johannes",male,3,20.0,KNN,0.06666666666666667,0
+1144,"Clark, Mr. Walter Miller",male,1,27.0,KNN,0.3333333333333333,0
+1145,"Salander, Mr. Karl Johan",male,3,24.0,KNN,0.06666666666666667,0
+1146,"Wenzel, Mr. Linhart",male,3,32.5,KNN,0.4,0
+1147,"MacKay, Mr. George William",male,3,,KNN,0.06666666666666667,0
+1148,"Mahon, Mr. John",male,3,,KNN,0.06666666666666667,0
+1149,"Niklasson, Mr. Samuel",male,3,28.0,KNN,0.13333333333333333,0
+1150,"Bentham, Miss. Lilian W",female,2,19.0,KNN,0.9333333333333333,1
+1151,"Midtsjo, Mr. Karl Albert",male,3,21.0,KNN,0.06666666666666667,0
+1152,"de Messemaeker, Mr. Guillaume Joseph",male,3,36.5,KNN,0.0,0
+1153,"Nilsson, Mr. August Ferdinand",male,3,21.0,KNN,0.06666666666666667,0
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,2,29.0,KNN,0.8666666666666667,1
+1155,"Klasen, Miss. Gertrud Emilia",female,3,1.0,KNN,0.7333333333333333,1
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,2,30.0,KNN,0.13333333333333333,0
+1157,"Lyntakoff, Mr. Stanko",male,3,,KNN,0.06666666666666667,0
+1158,"Chisholm, Mr. Roderick Robert Crispin",male,1,,KNN,0.06666666666666667,0
+1159,"Warren, Mr. Charles William",male,3,,KNN,0.06666666666666667,0
+1160,"Howard, Miss. May Elizabeth",female,3,,KNN,0.4666666666666667,0
+1161,"Pokrnic, Mr. Mate",male,3,17.0,KNN,0.2,0
+1162,"McCaffry, Mr. Thomas Francis",male,1,46.0,KNN,0.26666666666666666,0
+1163,"Fox, Mr. Patrick",male,3,,KNN,0.06666666666666667,0
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,1,26.0,KNN,0.9333333333333333,1
+1165,"Lennon, Miss. Mary",female,3,,KNN,0.8,1
+1166,"Saade, Mr. Jean Nassr",male,3,,KNN,0.06666666666666667,0
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,2,20.0,KNN,0.9333333333333333,1
+1168,"Parker, Mr. Clifford Richard",male,2,28.0,KNN,0.06666666666666667,0
+1169,"Faunthorpe, Mr. Harry",male,2,40.0,KNN,0.06666666666666667,0
+1170,"Ware, Mr. John James",male,2,30.0,KNN,0.06666666666666667,0
+1171,"Oxenham, Mr. Percy Thomas",male,2,22.0,KNN,0.06666666666666667,0
+1172,"Oreskovic, Miss. Jelka",female,3,23.0,KNN,0.5333333333333333,1
+1173,"Peacock, Master. Alfred Edward",male,3,0.75,KNN,0.9333333333333333,1
+1174,"Fleming, Miss. Honora",female,3,,KNN,0.8666666666666667,1
+1175,"Touma, Miss. Maria Youssef",female,3,9.0,KNN,0.6666666666666666,1
+1176,"Rosblom, Miss. Salli Helena",female,3,2.0,KNN,0.6666666666666666,1
+1177,"Dennis, Mr. William",male,3,36.0,KNN,0.06666666666666667,0
+1178,"Franklin, Mr. Charles (Charles Fardon)",male,3,,KNN,0.06666666666666667,0
+1179,"Snyder, Mr. John Pillsbury",male,1,24.0,KNN,0.4,0
+1180,"Mardirosian, Mr. Sarkis",male,3,,KNN,0.06666666666666667,0
+1181,"Ford, Mr. Arthur",male,3,,KNN,0.13333333333333333,0
+1182,"Rheims, Mr. George Alexander Lucien",male,1,,KNN,0.4,0
+1183,"Daly, Miss. Margaret Marcella Maggie""""",female,3,30.0,KNN,0.6666666666666666,1
+1184,"Nasr, Mr. Mustafa",male,3,,KNN,0.06666666666666667,0
+1185,"Dodge, Dr. Washington",male,1,53.0,KNN,0.4,0
+1186,"Wittevrongel, Mr. Camille",male,3,36.0,KNN,0.06666666666666667,0
+1187,"Angheloff, Mr. Minko",male,3,26.0,KNN,0.2,0
+1188,"Laroche, Miss. Louise",female,2,1.0,KNN,0.9333333333333333,1
+1189,"Samaan, Mr. Hanna",male,3,,KNN,0.13333333333333333,0
+1190,"Loring, Mr. Joseph Holland",male,1,30.0,KNN,0.6,1
+1191,"Johansson, Mr. Nils",male,3,29.0,KNN,0.0,0
+1192,"Olsson, Mr. Oscar Wilhelm",male,3,32.0,KNN,0.4,0
+1193,"Malachard, Mr. Noel",male,2,,KNN,0.26666666666666666,0
+1194,"Phillips, Mr. Escott Robert",male,2,43.0,KNN,0.06666666666666667,0
+1195,"Pokrnic, Mr. Tome",male,3,24.0,KNN,0.06666666666666667,0
+1196,"McCarthy, Miss. Catherine Katie""""",female,3,,KNN,0.8666666666666667,1
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,1,64.0,KNN,1.0,1
+1198,"Allison, Mr. Hudson Joshua Creighton",male,1,30.0,KNN,0.4,0
+1199,"Aks, Master. Philip Frank",male,3,0.83,KNN,0.8,1
+1200,"Hays, Mr. Charles Melville",male,1,55.0,KNN,0.26666666666666666,0
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,3,45.0,KNN,0.5333333333333333,1
+1202,"Cacic, Mr. Jego Grga",male,3,18.0,KNN,0.13333333333333333,0
+1203,"Vartanian, Mr. David",male,3,22.0,KNN,0.26666666666666666,0
+1204,"Sadowitz, Mr. Harry",male,3,,KNN,0.06666666666666667,0
+1205,"Carr, Miss. Jeannie",female,3,37.0,KNN,0.8,1
+1206,"White, Mrs. John Stuart (Ella Holmes)",female,1,55.0,KNN,0.9333333333333333,1
+1207,"Hagardon, Miss. Kate",female,3,17.0,KNN,0.7333333333333333,1
+1208,"Spencer, Mr. William Augustus",male,1,57.0,KNN,0.2,0
+1209,"Rogers, Mr. Reginald Harry",male,2,19.0,KNN,0.06666666666666667,0
+1210,"Jonsson, Mr. Nils Hilding",male,3,27.0,KNN,0.2,0
+1211,"Jefferys, Mr. Ernest Wilfred",male,2,22.0,KNN,0.13333333333333333,0
+1212,"Andersson, Mr. Johan Samuel",male,3,26.0,KNN,0.2,0
+1213,"Krekorian, Mr. Neshan",male,3,25.0,KNN,0.26666666666666666,0
+1214,"Nesson, Mr. Israel",male,2,26.0,KNN,0.0,0
+1215,"Rowe, Mr. Alfred G",male,1,33.0,KNN,0.6666666666666666,1
+1216,"Kreuchen, Miss. Emilie",female,1,39.0,KNN,1.0,1
+1217,"Assam, Mr. Ali",male,3,23.0,KNN,0.06666666666666667,0
+1218,"Becker, Miss. Ruth Elizabeth",female,2,12.0,KNN,1.0,1
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",male,1,46.0,KNN,0.3333333333333333,0
+1220,"Clarke, Mr. Charles Valentine",male,2,29.0,KNN,0.06666666666666667,0
+1221,"Enander, Mr. Ingvar",male,2,21.0,KNN,0.06666666666666667,0
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,2,48.0,KNN,0.8666666666666667,1
+1223,"Dulles, Mr. William Crothers",male,1,39.0,KNN,0.3333333333333333,0
+1224,"Thomas, Mr. Tannous",male,3,,KNN,0.06666666666666667,0
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,3,19.0,KNN,0.6,1
+1226,"Cor, Mr. Ivan",male,3,27.0,KNN,0.2,0
+1227,"Maguire, Mr. John Edward",male,1,30.0,KNN,0.6,1
+1228,"de Brito, Mr. Jose Joaquim",male,2,32.0,KNN,0.13333333333333333,0
+1229,"Elias, Mr. Joseph",male,3,39.0,KNN,0.06666666666666667,0
+1230,"Denbury, Mr. Herbert",male,2,25.0,KNN,0.0,0
+1231,"Betros, Master. Seman",male,3,,KNN,0.2,0
+1232,"Fillbrook, Mr. Joseph Charles",male,2,18.0,KNN,0.06666666666666667,0
+1233,"Lundstrom, Mr. Thure Edvin",male,3,32.0,KNN,0.4,0
+1234,"Sage, Mr. John George",male,3,,KNN,0.2,0
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,1,58.0,KNN,1.0,1
+1236,"van Billiard, Master. James William",male,3,,KNN,0.13333333333333333,0
+1237,"Abelseth, Miss. Karen Marie",female,3,16.0,KNN,0.4666666666666667,0
+1238,"Botsford, Mr. William Hull",male,2,26.0,KNN,0.0,0
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,3,38.0,KNN,0.5333333333333333,1
+1240,"Giles, Mr. Ralph",male,2,24.0,KNN,0.0,0
+1241,"Walcroft, Miss. Nellie",female,2,31.0,KNN,0.8666666666666667,1
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,1,45.0,KNN,1.0,1
+1243,"Stokes, Mr. Philip Joseph",male,2,25.0,KNN,0.0,0
+1244,"Dibden, Mr. William",male,2,18.0,KNN,0.06666666666666667,0
+1245,"Herman, Mr. Samuel",male,2,49.0,KNN,0.13333333333333333,0
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",female,3,0.17,KNN,0.8,1
+1247,"Julian, Mr. Henry Forbes",male,1,50.0,KNN,0.26666666666666666,0
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,1,59.0,KNN,1.0,1
+1249,"Lockyer, Mr. Edward",male,3,,KNN,0.06666666666666667,0
+1250,"O'Keefe, Mr. Patrick",male,3,,KNN,0.06666666666666667,0
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,3,30.0,KNN,0.6,1
+1252,"Sage, Master. William Henry",male,3,14.5,KNN,0.06666666666666667,0
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",female,2,24.0,KNN,0.9333333333333333,1
+1254,"Ware, Mrs. John James (Florence Louise Long)",female,2,31.0,KNN,0.9333333333333333,1
+1255,"Strilic, Mr. Ivan",male,3,27.0,KNN,0.2,0
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",female,1,25.0,KNN,0.9333333333333333,1
+1257,"Sage, Mrs. John (Annie Bullen)",female,3,,KNN,0.26666666666666666,0
+1258,"Caram, Mr. Joseph",male,3,,KNN,0.13333333333333333,0
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,3,22.0,KNN,0.6,1
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,1,45.0,KNN,1.0,1
+1261,"Pallas y Castello, Mr. Emilio",male,2,29.0,KNN,0.13333333333333333,0
+1262,"Giles, Mr. Edgar",male,2,21.0,KNN,0.06666666666666667,0
+1263,"Wilson, Miss. Helen Alice",female,1,31.0,KNN,1.0,1
+1264,"Ismay, Mr. Joseph Bruce",male,1,49.0,KNN,0.06666666666666667,0
+1265,"Harbeck, Mr. William H",male,2,44.0,KNN,0.13333333333333333,0
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",female,1,54.0,KNN,1.0,1
+1267,"Bowen, Miss. Grace Scott",female,1,45.0,KNN,0.9333333333333333,1
+1268,"Kink, Miss. Maria",female,3,22.0,KNN,0.26666666666666666,0
+1269,"Cotterill, Mr. Henry Harry""""",male,2,21.0,KNN,0.06666666666666667,0
+1270,"Hipkins, Mr. William Edward",male,1,55.0,KNN,0.13333333333333333,0
+1271,"Asplund, Master. Carl Edgar",male,3,5.0,KNN,0.26666666666666666,0
+1272,"O'Connor, Mr. Patrick",male,3,,KNN,0.06666666666666667,0
+1273,"Foley, Mr. Joseph",male,3,26.0,KNN,0.06666666666666667,0
+1274,"Risien, Mrs. Samuel (Emma)",female,3,,KNN,0.6666666666666666,1
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",female,3,19.0,KNN,0.6666666666666666,1
+1276,"Wheeler, Mr. Edwin Frederick""""",male,2,,KNN,0.13333333333333333,0
+1277,"Herman, Miss. Kate",female,2,24.0,KNN,0.9333333333333333,1
+1278,"Aronsson, Mr. Ernst Axel Algot",male,3,24.0,KNN,0.06666666666666667,0
+1279,"Ashby, Mr. John",male,2,57.0,KNN,0.13333333333333333,0
+1280,"Canavan, Mr. Patrick",male,3,21.0,KNN,0.06666666666666667,0
+1281,"Palsson, Master. Paul Folke",male,3,6.0,KNN,0.13333333333333333,0
+1282,"Payne, Mr. Vivian Ponsonby",male,1,23.0,KNN,0.6,1
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,1,51.0,KNN,1.0,1
+1284,"Abbott, Master. Eugene Joseph",male,3,13.0,KNN,0.4666666666666667,0
+1285,"Gilbert, Mr. William",male,2,47.0,KNN,0.06666666666666667,0
+1286,"Kink-Heilmann, Mr. Anton",male,3,29.0,KNN,0.06666666666666667,0
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,1,18.0,KNN,0.9333333333333333,1
+1288,"Colbert, Mr. Patrick",male,3,24.0,KNN,0.06666666666666667,0
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,1,48.0,KNN,1.0,1
+1290,"Larsson-Rondberg, Mr. Edvard A",male,3,22.0,KNN,0.06666666666666667,0
+1291,"Conlon, Mr. Thomas Henry",male,3,31.0,KNN,0.06666666666666667,0
+1292,"Bonnell, Miss. Caroline",female,1,30.0,KNN,1.0,1
+1293,"Gale, Mr. Harry",male,2,38.0,KNN,0.06666666666666667,0
+1294,"Gibson, Miss. Dorothy Winifred",female,1,22.0,KNN,1.0,1
+1295,"Carrau, Mr. Jose Pedro",male,1,17.0,KNN,0.4,0
+1296,"Frauenthal, Mr. Isaac Gerald",male,1,43.0,KNN,0.4,0
+1297,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,2,20.0,KNN,0.06666666666666667,0
+1298,"Ware, Mr. William Jeffery",male,2,23.0,KNN,0.06666666666666667,0
+1299,"Widener, Mr. George Dunton",male,1,50.0,KNN,0.4666666666666667,0
+1300,"Riordan, Miss. Johanna Hannah""""",female,3,,KNN,0.8666666666666667,1
+1301,"Peacock, Miss. Treasteall",female,3,3.0,KNN,0.6666666666666666,1
+1302,"Naughton, Miss. Hannah",female,3,,KNN,0.8666666666666667,1
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,1,37.0,KNN,0.9333333333333333,1
+1304,"Henriksson, Miss. Jenny Lovisa",female,3,28.0,KNN,0.5333333333333333,1
+1305,"Spector, Mr. Woolf",male,3,,KNN,0.13333333333333333,0
+1306,"Oliva y Ocana, Dona. Fermina",female,1,39.0,KNN,0.8666666666666667,1
+1307,"Saether, Mr. Simon Sivertsen",male,3,38.5,KNN,0.06666666666666667,0
+1308,"Ware, Mr. Frederick",male,3,,KNN,0.13333333333333333,0
+1309,"Peter, Master. Michael J",male,3,,KNN,0.4666666666666667,0
+892,"Kelly, Mr. James",male,3,34.5,Logistic Regression,0.11786555336537909,0
+893,"Wilkes, Mrs. James (Ellen Needs)",female,3,47.0,Logistic Regression,0.5140379030189992,1
+894,"Myles, Mr. Thomas Francis",male,2,62.0,Logistic Regression,0.13126580478861663,0
+895,"Wirz, Mr. Albert",male,3,27.0,Logistic Regression,0.10829513554434402,0
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,3,22.0,Logistic Regression,0.7099361981282977,1
+897,"Svensson, Mr. Johan Cervin",male,3,14.0,Logistic Regression,0.14476402031768731,0
+898,"Connolly, Miss. Kate",female,3,30.0,Logistic Regression,0.6219047682746784,1
+899,"Caldwell, Mr. Albert Francis",male,2,26.0,Logistic Regression,0.23418472255713035,0
+900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,3,18.0,Logistic Regression,0.7495413530754741,1
+901,"Davies, Mr. John Samuel",male,3,21.0,Logistic Regression,0.13911140785953477,0
+902,"Ilieff, Mr. Ylio",male,3,,Logistic Regression,0.09107091685913955,0
+903,"Jones, Mr. Charles Cresson",male,1,46.0,Logistic Regression,0.27779497759211086,0
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,1,23.0,Logistic Regression,0.946565531224718,1
+905,"Howard, Mr. Benjamin",male,2,63.0,Logistic Regression,0.14558449667009882,0
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,1,47.0,Logistic Regression,0.8972554214016865,1
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,2,24.0,Logistic Regression,0.9043995371097112,1
+908,"Keane, Mr. Daniel",male,2,35.0,Logistic Regression,0.2409454049447093,0
+909,"Assaf, Mr. Gerios",male,3,21.0,Logistic Regression,0.1535344508229634,0
+910,"Ilmakangas, Miss. Ida Livija",female,3,27.0,Logistic Regression,0.5651450096056536,1
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,3,45.0,Logistic Regression,0.6143105502384407,1
+912,"Rothschild, Mr. Martin",male,1,55.0,Logistic Regression,0.39526381499433866,0
+913,"Olsen, Master. Artur Karl",male,3,9.0,Logistic Regression,0.357338249405134,0
+914,"Flegenheim, Mrs. Alfred (Antoinette)",female,1,,Logistic Regression,0.8972021681429873,1
+915,"Williams, Mr. Richard Norris II",male,1,21.0,Logistic Regression,0.5950464611372129,1
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,1,48.0,Logistic Regression,0.8510612008890478,1
+917,"Robins, Mr. Alexander A",male,3,50.0,Logistic Regression,0.08209104516966488,0
+918,"Ostby, Miss. Helene Ragnhild",female,1,22.0,Logistic Regression,0.9417623719427456,1
+919,"Daher, Mr. Shedid",male,3,22.5,Logistic Regression,0.14903762439432824,0
+920,"Brady, Mr. John Bertram",male,1,41.0,Logistic Regression,0.3183957572221993,0
+921,"Samaan, Mr. Elias",male,3,,Logistic Regression,0.18323885430512038,0
+922,"Louch, Mr. Charles Alexander",male,2,50.0,Logistic Regression,0.18753392442497577,0
+923,"Jefferys, Mr. Clifford Thomas",male,2,24.0,Logistic Regression,0.3173924032110369,0
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,3,33.0,Logistic Regression,0.6355704076939206,1
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,3,,Logistic Regression,0.6469810755215598,1
+926,"Mock, Mr. Philipp Edmund",male,1,30.0,Logistic Regression,0.5360809511530488,1
+927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,3,18.5,Logistic Regression,0.16130996221460975,0
+928,"Roth, Miss. Sarah A",female,3,,Logistic Regression,0.531185435660597,1
+929,"Cacic, Miss. Manda",female,3,21.0,Logistic Regression,0.6103332486218516,1
+930,"Sap, Mr. Julius",male,3,25.0,Logistic Regression,0.11714249551085708,0
+931,"Hee, Mr. Ling",male,3,,Logistic Regression,0.09188528531988853,0
+932,"Karun, Mr. Franz",male,3,39.0,Logistic Regression,0.13565909975906038,0
+933,"Franklin, Mr. Thomas Parham",male,1,,Logistic Regression,0.34244523776876706,0
+934,"Goldsmith, Mr. Nathan",male,3,41.0,Logistic Regression,0.07731900286470304,0
+935,"Corbett, Mrs. Walter H (Irene Colvin)",female,2,30.0,Logistic Regression,0.8037984518880785,1
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,1,45.0,Logistic Regression,0.8946110408582749,1
+937,"Peltomaki, Mr. Nikolai Johannes",male,3,25.0,Logistic Regression,0.10895071709135638,0
+938,"Chevre, Mr. Paul Romaine",male,1,45.0,Logistic Regression,0.37157794720028586,0
+939,"Shaughnessy, Mr. Patrick",male,3,,Logistic Regression,0.11994138652935334,0
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,1,60.0,Logistic Regression,0.9106542797292309,1
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,3,36.0,Logistic Regression,0.5913249365699047,1
+942,"Smith, Mr. Lucien Philip",male,1,24.0,Logistic Regression,0.49038548185921665,0
+943,"Pulbaum, Mr. Franz",male,2,27.0,Logistic Regression,0.3010053440993915,0
+944,"Hocking, Miss. Ellen Nellie""""",female,2,20.0,Logistic Regression,0.8309020679771258,1
+945,"Fortune, Miss. Ethel Flora",female,1,28.0,Logistic Regression,0.7699754136982496,1
+946,"Mangiavacchi, Mr. Serafino Emilio",male,2,,Logistic Regression,0.27359590243589227,0
+947,"Rice, Master. Albert",male,3,10.0,Logistic Regression,0.23706895818031837,0
+948,"Cor, Mr. Bartol",male,3,35.0,Logistic Regression,0.08813280771026677,0
+949,"Abelseth, Mr. Olaus Jorgensen",male,3,25.0,Logistic Regression,0.10743210870159159,0
+950,"Davison, Mr. Thomas Henry",male,3,,Logistic Regression,0.12146839084128119,0
+951,"Chaudanson, Miss. Victorine",female,1,36.0,Logistic Regression,0.9445801576120745,1
+952,"Dika, Mr. Mirko",male,3,17.0,Logistic Regression,0.12826866520981936,0
+953,"McCrae, Mr. Arthur Gordon",male,2,32.0,Logistic Regression,0.20556775044196948,0
+954,"Bjorklund, Mr. Ernst Herbert",male,3,18.0,Logistic Regression,0.12476998948272669,0
+955,"Bradley, Miss. Bridget Delia",female,3,22.0,Logistic Regression,0.6659649586995211,1
+956,"Ryerson, Master. John Borie",male,1,13.0,Logistic Regression,0.7953295517091129,1
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,2,,Logistic Regression,0.8258913093095658,1
+958,"Burns, Miss. Mary Delia",female,3,18.0,Logistic Regression,0.6883036174932605,1
+959,"Moore, Mr. Clarence Bloomfield",male,1,47.0,Logistic Regression,0.3229853492325147,0
+960,"Tucker, Mr. Gilbert Milligan Jr",male,1,31.0,Logistic Regression,0.4457221939422976,0
+961,"Fortune, Mrs. Mark (Mary McDougald)",female,1,60.0,Logistic Regression,0.6850541810228155,1
+962,"Mulvihill, Miss. Bertha E",female,3,24.0,Logistic Regression,0.6558220364361721,1
+963,"Minkoff, Mr. Lazar",male,3,21.0,Logistic Regression,0.11818269527200992,0
+964,"Nieminen, Miss. Manta Josefina",female,3,29.0,Logistic Regression,0.555269907135192,1
+965,"Ovies y Rodriguez, Mr. Servando",male,1,28.5,Logistic Regression,0.45668466312933403,0
+966,"Geiger, Miss. Amalie",female,1,35.0,Logistic Regression,0.9568056833637075,1
+967,"Keeping, Mr. Edwin",male,1,32.5,Logistic Regression,0.6768593783103857,1
+968,"Miles, Mr. Frank",male,3,,Logistic Regression,0.091788862837082,0
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,1,55.0,Logistic Regression,0.8256631210510268,1
+970,"Aldworth, Mr. Charles Augustus",male,2,30.0,Logistic Regression,0.21035280208234644,0
+971,"Doyle, Miss. Elizabeth",female,3,24.0,Logistic Regression,0.6558220364361721,1
+972,"Boulos, Master. Akar",male,3,6.0,Logistic Regression,0.5474607244377029,1
+973,"Straus, Mr. Isidor",male,1,67.0,Logistic Regression,0.4034557799266352,0
+974,"Case, Mr. Howard Brown",male,1,49.0,Logistic Regression,0.2639623255831371,0
+975,"Demetri, Mr. Marinko",male,3,,Logistic Regression,0.09107091685913955,0
+976,"Lamb, Mr. John Joseph",male,2,,Logistic Regression,0.23550692915323057,0
+977,"Khalil, Mr. Betros",male,3,,Logistic Regression,0.1561109993885054,0
+978,"Barry, Miss. Julia",female,3,27.0,Logistic Regression,0.6415396289638261,1
+979,"Badman, Miss. Emily Louisa",female,3,18.0,Logistic Regression,0.6191232287158558,1
+980,"O'Donoghue, Ms. Bridget",female,3,,Logistic Regression,0.6044171724957391,1
+981,"Wells, Master. Ralph Lester",male,2,2.0,Logistic Regression,0.755028154169857,1
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,3,22.0,Logistic Regression,0.7216529298363116,1
+983,"Pedersen, Mr. Olaf",male,3,,Logistic Regression,0.0905033448335956,0
+984,"Davidson, Mrs. Thornton (Orian Hays)",female,1,27.0,Logistic Regression,0.92782805482955,1
+985,"Guest, Mr. Robert",male,3,,Logistic Regression,0.091788862837082,0
+986,"Birnbaum, Mr. Jakob",male,1,25.0,Logistic Regression,0.46927763954851975,0
+987,"Tenglin, Mr. Gunnar Isidor",male,3,25.0,Logistic Regression,0.10824083203314062,0
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,1,76.0,Logistic Regression,0.7813327182515629,1
+989,"Makinen, Mr. Kalle Edvard",male,3,29.0,Logistic Regression,0.10020913277944579,0
+990,"Braf, Miss. Elin Ester Maria",female,3,20.0,Logistic Regression,0.6054268118897775,1
+991,"Nancarrow, Mr. William Henry",male,3,33.0,Logistic Regression,0.092682953606003,0
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,1,43.0,Logistic Regression,0.9278335399374731,1
+993,"Weisz, Mr. Leopold",male,2,27.0,Logistic Regression,0.28311333103354874,0
+994,"Foley, Mr. William",male,3,,Logistic Regression,0.11994138652935334,0
+995,"Johansson Palmquist, Mr. Oskar Leander",male,3,26.0,Logistic Regression,0.10589474941147924,0
+996,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,3,16.0,Logistic Regression,0.7701843464582392,1
+997,"Holthen, Mr. Johan Martin",male,3,28.0,Logistic Regression,0.15654867176702686,0
+998,"Buckley, Mr. Daniel",male,3,21.0,Logistic Regression,0.1547191845049828,0
+999,"Ryan, Mr. Edward",male,3,,Logistic Regression,0.11994138652935334,0
+1000,"Willer, Mr. Aaron (Abi Weller"")""",male,3,,Logistic Regression,0.0947940124050459,0
+1001,"Swane, Mr. George",male,2,18.5,Logistic Regression,0.2584044210270754,0
+1002,"Stanton, Mr. Samuel Ward",male,2,41.0,Logistic Regression,0.23703226907953054,0
+1003,"Shine, Miss. Ellen Natalia",female,3,,Logistic Regression,0.6048177017334447,1
+1004,"Evans, Miss. Edith Corse",female,1,36.0,Logistic Regression,0.8940698085376053,1
+1005,"Buckley, Miss. Katherine",female,3,18.5,Logistic Regression,0.6782167745764691,1
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,1,63.0,Logistic Regression,0.919481185848452,1
+1007,"Chronopoulos, Mr. Demetrios",male,3,18.0,Logistic Regression,0.20973407000415803,0
+1008,"Thomas, Mr. John",male,3,,Logistic Regression,0.11419049105972187,0
+1009,"Sandstrom, Miss. Beatrice Irene",female,3,1.0,Logistic Regression,0.7094177609613725,1
+1010,"Beattie, Mr. Thomson",male,1,36.0,Logistic Regression,0.5354799345740542,1
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,2,29.0,Logistic Regression,0.8528631873594232,1
+1012,"Watt, Miss. Bertha J",female,2,12.0,Logistic Regression,0.832656991020935,1
+1013,"Kiernan, Mr. John",male,3,,Logistic Regression,0.11924473452735178,0
+1014,"Schabert, Mrs. Paul (Emma Mock)",female,1,35.0,Logistic Regression,0.940522231114935,1
+1015,"Carver, Mr. Alfred John",male,3,28.0,Logistic Regression,0.09875783711574172,0
+1016,"Kennedy, Mr. John",male,3,,Logistic Regression,0.11994138652935334,0
+1017,"Cribb, Miss. Laura Alice",female,3,17.0,Logistic Regression,0.6947808167441192,1
+1018,"Brobeck, Mr. Karl Rudolf",male,3,22.0,Logistic Regression,0.11519017998332312,0
+1019,"McCoy, Miss. Alicia",female,3,,Logistic Regression,0.6460371874001546,1
+1020,"Bowenur, Mr. Solomon",male,2,42.0,Logistic Regression,0.16756316567817212,0
+1021,"Petersen, Mr. Marius",male,3,24.0,Logistic Regression,0.11193170336049033,0
+1022,"Spinner, Mr. Henry John",male,3,32.0,Logistic Regression,0.09466526196182984,0
+1023,"Gracie, Col. Archibald IV",male,1,53.0,Logistic Regression,0.4928283308781511,0
+1024,"Lefebre, Mrs. Frank (Frances)",female,3,,Logistic Regression,0.31190026004359583,0
+1025,"Thomas, Mr. Charles P",male,3,,Logistic Regression,0.11352293303366559,0
+1026,"Dintcheff, Mr. Valtcho",male,3,43.0,Logistic Regression,0.07423069112176488,0
+1027,"Carlsson, Mr. Carl Robert",male,3,24.0,Logistic Regression,0.1108429357882089,0
+1028,"Zakarian, Mr. Mapriededer",male,3,26.5,Logistic Regression,0.1375762926640729,0
+1029,"Schmidt, Mr. August",male,2,26.0,Logistic Regression,0.22628624904186537,0
+1030,"Drapkin, Miss. Jennie",female,3,23.0,Logistic Regression,0.5912365984374913,1
+1031,"Goodwin, Mr. Charles Frederick",male,3,40.0,Logistic Regression,0.02694439985252459,0
+1032,"Goodwin, Miss. Jessie Allis",female,3,10.0,Logistic Regression,0.3847857500499516,0
+1033,"Daniels, Miss. Sarah",female,1,33.0,Logistic Regression,0.8752816849130511,1
+1034,"Ryerson, Mr. Arthur Larned",male,1,61.0,Logistic Regression,0.21524337985943126,0
+1035,"Beauchamp, Mr. Henry James",male,2,28.0,Logistic Regression,0.27972950784345973,0
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,1,42.0,Logistic Regression,0.29903750600895823,0
+1037,"Vander Planke, Mr. Julius",male,3,31.0,Logistic Regression,0.13374624129600027,0
+1038,"Hilliard, Mr. Herbert Henry",male,1,,Logistic Regression,0.4195360898557335,0
+1039,"Davies, Mr. Evan",male,3,22.0,Logistic Regression,0.11665857485074119,0
+1040,"Crafton, Mr. John Bertram",male,1,,Logistic Regression,0.34244523776876706,0
+1041,"Lahtinen, Rev. William",male,2,30.0,Logistic Regression,0.42665665636580113,0
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",female,1,23.0,Logistic Regression,0.9468051365148976,1
+1043,"Matinoff, Mr. Nicola",male,3,,Logistic Regression,0.12361953376804487,0
+1044,"Storey, Mr. Thomas",male,3,60.5,Logistic Regression,0.05310959336975464,0
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,3,36.0,Logistic Regression,0.6374280816915929,1
+1046,"Asplund, Master. Filip Oscar",male,3,13.0,Logistic Regression,0.19398361705764522,0
+1047,"Duquemin, Mr. Joseph",male,3,24.0,Logistic Regression,0.10912194590253418,0
+1048,"Bird, Miss. Ellen",female,1,29.0,Logistic Regression,0.9488122037590008,1
+1049,"Lundin, Miss. Olga Elida",female,3,23.0,Logistic Regression,0.5885755363800702,1
+1050,"Borebank, Mr. John James",male,1,42.0,Logistic Regression,0.29903750600895823,0
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",female,3,26.0,Logistic Regression,0.7016232852304647,1
+1052,"Smyth, Miss. Julia",female,3,,Logistic Regression,0.604187438180291,1
+1053,"Touma, Master. Georges Youssef",male,3,7.0,Logistic Regression,0.6190722394816791,1
+1054,"Wright, Miss. Marion",female,2,26.0,Logistic Regression,0.7694372167329043,1
+1055,"Pearce, Mr. Ernest",male,3,,Logistic Regression,0.08674791019433466,0
+1056,"Peruschitz, Rev. Joseph Maria",male,2,41.0,Logistic Regression,0.29400058259394224,0
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,3,26.0,Logistic Regression,0.7461437401166934,1
+1058,"Brandeis, Mr. Emil",male,1,48.0,Logistic Regression,0.41693172939569517,0
+1059,"Ford, Mr. Edward Watson",male,3,18.0,Logistic Regression,0.04606718812416731,0
+1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,1,,Logistic Regression,0.9200890198481995,1
+1061,"Hellstrom, Miss. Hilda Maria",female,3,22.0,Logistic Regression,0.6084353657765879,1
+1062,"Lithman, Mr. Simon",male,3,,Logistic Regression,0.08943381916659975,0
+1063,"Zakarian, Mr. Ortin",male,3,27.0,Logistic Regression,0.1361969327062013,0
+1064,"Dyker, Mr. Adolf Fredrik",male,3,23.0,Logistic Regression,0.14140363572170692,0
+1065,"Torfa, Mr. Assad",male,3,,Logistic Regression,0.11943797704822721,0
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,3,40.0,Logistic Regression,0.026989535940983307,0
+1067,"Brown, Miss. Edith Eileen",female,2,15.0,Logistic Regression,0.8361025567442252,1
+1068,"Sincock, Miss. Maude",female,2,20.0,Logistic Regression,0.8162273680179302,1
+1069,"Stengel, Mr. Charles Emil Henry",male,1,54.0,Logistic Regression,0.3927001308120203,0
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,2,36.0,Logistic Regression,0.8108100713464416,1
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,1,64.0,Logistic Regression,0.9058886888629446,1
+1072,"McCrie, Mr. James Matthew",male,2,30.0,Logistic Regression,0.21035280208234644,0
+1073,"Compton, Mr. Alexander Taylor Jr",male,1,37.0,Logistic Regression,0.5403805640209047,1
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,1,18.0,Logistic Regression,0.9412696726839198,1
+1075,"Lane, Mr. Patrick",male,3,,Logistic Regression,0.11994138652935334,0
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,1,27.0,Logistic Regression,0.9653224403003455,1
+1077,"Maybery, Mr. Frank Hubert",male,2,40.0,Logistic Regression,0.1886730205631317,0
+1078,"Phillips, Miss. Alice Frances Louisa",female,2,21.0,Logistic Regression,0.8212626884470999,1
+1079,"Davies, Mr. Joseph",male,3,17.0,Logistic Regression,0.12849539335321888,0
+1080,"Sage, Miss. Ada",female,3,,Logistic Regression,0.28726882949035276,0
+1081,"Veal, Mr. James",male,2,40.0,Logistic Regression,0.17417857600613262,0
+1082,"Angle, Mr. William A",male,2,34.0,Logistic Regression,0.25114430010673844,0
+1083,"Salomon, Mr. Abraham L",male,1,,Logistic Regression,0.3401652971456836,0
+1084,"van Billiard, Master. Walter John",male,3,11.5,Logistic Regression,0.5037169141755701,1
+1085,"Lingane, Mr. John",male,2,61.0,Logistic Regression,0.14746838807281573,0
+1086,"Drew, Master. Marshall Brines",male,2,8.0,Logistic Regression,0.76009994556561,1
+1087,"Karlsson, Mr. Julius Konrad Eugen",male,3,33.0,Logistic Regression,0.09176207352301219,0
+1088,"Spedden, Master. Robert Douglas",male,1,6.0,Logistic Regression,0.9097445219643173,1
+1089,"Nilsson, Miss. Berta Olivia",female,3,18.0,Logistic Regression,0.6154570893080176,1
+1090,"Baimbrigge, Mr. Charles Robert",male,2,23.0,Logistic Regression,0.22127040937101133,0
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,3,,Logistic Regression,0.6093263609521066,1
+1092,"Murphy, Miss. Nora",female,3,,Logistic Regression,0.6776296138516611,1
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",male,3,0.33,Logistic Regression,0.48887250578662506,0
+1094,"Astor, Col. John Jacob",male,1,47.0,Logistic Regression,0.6091527100519318,1
+1095,"Quick, Miss. Winifred Vera",female,2,8.0,Logistic Regression,0.8321814749837506,1
+1096,"Andrew, Mr. Frank Thomas",male,2,25.0,Logistic Regression,0.21332845212752533,0
+1097,"Omont, Mr. Alfred Fernand",male,1,,Logistic Regression,0.4193712163723046,0
+1098,"McGowan, Miss. Katherine",female,3,35.0,Logistic Regression,0.5957730952950927,1
+1099,"Collett, Mr. Sidney C Stuart",male,2,24.0,Logistic Regression,0.21727321714528086,0
+1100,"Rosenbaum, Miss. Edith Louise",female,1,33.0,Logistic Regression,0.8945533336002804,1
+1101,"Delalic, Mr. Redjo",male,3,25.0,Logistic Regression,0.10879082651064448,0
+1102,"Andersen, Mr. Albert Karvin",male,3,32.0,Logistic Regression,0.14460788043644796,0
+1103,"Finoli, Mr. Luigi",male,3,,Logistic Regression,0.08699646567724123,0
+1104,"Deacon, Mr. Percy William",male,2,17.0,Logistic Regression,0.276554142917163,0
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,2,60.0,Logistic Regression,0.737573459566487,1
+1106,"Andersson, Miss. Ida Augusta Margareta",female,3,38.0,Logistic Regression,0.2450001377022737,0
+1107,"Head, Mr. Christopher",male,1,42.0,Logistic Regression,0.34928584319383305,0
+1108,"Mahon, Miss. Bridget Delia",female,3,,Logistic Regression,0.6061782996361904,1
+1109,"Wick, Mr. George Dennick",male,1,57.0,Logistic Regression,0.34264989134274215,0
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,1,50.0,Logistic Regression,0.9550900106389707,1
+1111,"Thomson, Mr. Alexander Morrison",male,3,,Logistic Regression,0.091788862837082,0
+1112,"Duran y More, Miss. Florentina",female,2,30.0,Logistic Regression,0.8114460023593351,1
+1113,"Reynolds, Mr. Harold J",male,3,21.0,Logistic Regression,0.11908637066029629,0
+1114,"Cook, Mrs. (Selena Rogers)",female,2,22.0,Logistic Regression,0.8172875890415736,1
+1115,"Karlsson, Mr. Einar Gervasius",male,3,21.0,Logistic Regression,0.11759148489230044,0
+1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,1,53.0,Logistic Regression,0.878937037967164,1
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,3,,Logistic Regression,0.6796423416859958,1
+1118,"Asplund, Mr. Johan Charles",male,3,23.0,Logistic Regression,0.11283164131357576,0
+1119,"McNeill, Miss. Bridget",female,3,,Logistic Regression,0.6044171724957391,1
+1120,"Everett, Mr. Thomas James",male,3,40.5,Logistic Regression,0.10277814888395188,0
+1121,"Hocking, Mr. Samuel James Metcalfe",male,2,36.0,Logistic Regression,0.18802440093338313,0
+1122,"Sweet, Mr. George Frederick",male,2,14.0,Logistic Regression,0.3750934851221331,0
+1123,"Willard, Miss. Constance",female,1,21.0,Logistic Regression,0.886486975807346,1
+1124,"Wiklund, Mr. Karl Johan",male,3,21.0,Logistic Regression,0.10885551469097555,0
+1125,"Linehan, Mr. Michael",male,3,,Logistic Regression,0.12072166515356597,0
+1126,"Cumings, Mr. John Bradley",male,1,39.0,Logistic Regression,0.5096689027756235,1
+1127,"Vendel, Mr. Olof Edvin",male,3,20.0,Logistic Regression,0.12038803115939692,0
+1128,"Warren, Mr. Frank Manley",male,1,64.0,Logistic Regression,0.3732742424365817,0
+1129,"Baccos, Mr. Raffull",male,3,20.0,Logistic Regression,0.1565936297453198,0
+1130,"Hiltunen, Miss. Marta",female,2,18.0,Logistic Regression,0.7970034451752641,1
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,1,48.0,Logistic Regression,0.9181041775406831,1
+1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,1,55.0,Logistic Regression,0.8744116223449432,1
+1133,"Christy, Mrs. (Alice Frances)",female,2,45.0,Logistic Regression,0.8104776576328044,1
+1134,"Spedden, Mr. Frederic Oakley",male,1,45.0,Logistic Regression,0.4674728657312203,0
+1135,"Hyman, Mr. Abraham",male,3,,Logistic Regression,0.09103206542787372,0
+1136,"Johnston, Master. William Arthur Willie""""",male,3,,Logistic Regression,0.35502153353015575,0
+1137,"Kenyon, Mr. Frederick R",male,1,41.0,Logistic Regression,0.37579996007206296,0
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",female,2,22.0,Logistic Regression,0.8610823747672216,1
+1139,"Drew, Mr. James Vivian",male,2,42.0,Logistic Regression,0.23670393271534343,0
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,2,29.0,Logistic Regression,0.8528631873594232,1
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,3,,Logistic Regression,0.7399199558704042,1
+1142,"West, Miss. Barbara J",female,2,0.92,Logistic Regression,0.8333681088752508,1
+1143,"Abrahamsson, Mr. Abraham August Johannes",male,3,20.0,Logistic Regression,0.12081281985308889,0
+1144,"Clark, Mr. Walter Miller",male,1,27.0,Logistic Regression,0.6554945380686505,1
+1145,"Salander, Mr. Karl Johan",male,3,24.0,Logistic Regression,0.11869199266334284,0
+1146,"Wenzel, Mr. Linhart",male,3,32.5,Logistic Regression,0.10020979222302812,0
+1147,"MacKay, Mr. George William",male,3,,Logistic Regression,0.08943381916659975,0
+1148,"Mahon, Mr. John",male,3,,Logistic Regression,0.11994138652935334,0
+1149,"Niklasson, Mr. Samuel",male,3,28.0,Logistic Regression,0.10297858343773875,0
+1150,"Bentham, Miss. Lilian W",female,2,19.0,Logistic Regression,0.7942827325915645,1
+1151,"Midtsjo, Mr. Karl Albert",male,3,21.0,Logistic Regression,0.11746799405519598,0
+1152,"de Messemaeker, Mr. Guillaume Joseph",male,3,36.5,Logistic Regression,0.11786611423949604,0
+1153,"Nilsson, Mr. August Ferdinand",male,3,21.0,Logistic Regression,0.1179372513512481,0
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,2,29.0,Logistic Regression,0.8452737033038902,1
+1155,"Klasen, Miss. Gertrud Emilia",female,3,1.0,Logistic Regression,0.7437102533582635,1
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,2,30.0,Logistic Regression,0.2708563259811905,0
+1157,"Lyntakoff, Mr. Stanko",male,3,,Logistic Regression,0.09107091685913955,0
+1158,"Chisholm, Mr. Roderick Robert Crispin",male,1,,Logistic Regression,0.08947626435439655,0
+1159,"Warren, Mr. Charles William",male,3,,Logistic Regression,0.08943381916659975,0
+1160,"Howard, Miss. May Elizabeth",female,3,,Logistic Regression,0.531185435660597,1
+1161,"Pokrnic, Mr. Mate",male,3,17.0,Logistic Regression,0.1329898796524886,0
+1162,"McCaffry, Mr. Thomas Francis",male,1,46.0,Logistic Regression,0.477181189283379,0
+1163,"Fox, Mr. Patrick",male,3,,Logistic Regression,0.11994138652935334,0
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,1,26.0,Logistic Regression,0.967693157761548,1
+1165,"Lennon, Miss. Mary",female,3,,Logistic Regression,0.676182561689828,1
+1166,"Saade, Mr. Jean Nassr",male,3,,Logistic Regression,0.11941097806549546,0
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,2,20.0,Logistic Regression,0.8390622762831241,1
+1168,"Parker, Mr. Clifford Richard",male,2,28.0,Logistic Regression,0.20180887076632775,0
+1169,"Faunthorpe, Mr. Harry",male,2,40.0,Logistic Regression,0.22572370971925979,0
+1170,"Ware, Mr. John James",male,2,30.0,Logistic Regression,0.24934445698595298,0
+1171,"Oxenham, Mr. Percy Thomas",male,2,22.0,Logistic Regression,0.2253199695923481,0
+1172,"Oreskovic, Miss. Jelka",female,3,23.0,Logistic Regression,0.5991713903459119,1
+1173,"Peacock, Master. Alfred Edward",male,3,0.75,Logistic Regression,0.5601539197290567,1
+1174,"Fleming, Miss. Honora",female,3,,Logistic Regression,0.6044171724957391,1
+1175,"Touma, Miss. Maria Youssef",female,3,9.0,Logistic Regression,0.7901168913542188,1
+1176,"Rosblom, Miss. Salli Helena",female,3,2.0,Logistic Regression,0.7222748688260289,1
+1177,"Dennis, Mr. William",male,3,36.0,Logistic Regression,0.08333288722647582,0
+1178,"Franklin, Mr. Charles (Charles Fardon)",male,3,,Logistic Regression,0.08798176227460724,0
+1179,"Snyder, Mr. John Pillsbury",male,1,24.0,Logistic Regression,0.5294728431277806,1
+1180,"Mardirosian, Mr. Sarkis",male,3,,Logistic Regression,0.11943797704822721,0
+1181,"Ford, Mr. Arthur",male,3,,Logistic Regression,0.091788862837082,0
+1182,"Rheims, Mr. George Alexander Lucien",male,1,,Logistic Regression,0.3876010088246913,0
+1183,"Daly, Miss. Margaret Marcella Maggie""""",female,3,30.0,Logistic Regression,0.6121628688232036,1
+1184,"Nasr, Mr. Mustafa",male,3,,Logistic Regression,0.11943797704822721,0
+1185,"Dodge, Dr. Washington",male,1,53.0,Logistic Regression,0.5354473721126601,1
+1186,"Wittevrongel, Mr. Camille",male,3,36.0,Logistic Regression,0.0930778987108306,0
+1187,"Angheloff, Mr. Minko",male,3,26.0,Logistic Regression,0.10654753751159257,0
+1188,"Laroche, Miss. Louise",female,2,1.0,Logistic Regression,0.8944122330955383,1
+1189,"Samaan, Mr. Hanna",male,3,,Logistic Regression,0.18323885430512038,0
+1190,"Loring, Mr. Joseph Holland",male,1,30.0,Logistic Regression,0.4234946670036849,0
+1191,"Johansson, Mr. Nils",male,3,29.0,Logistic Regression,0.09984856104300648,0
+1192,"Olsson, Mr. Oscar Wilhelm",male,3,32.0,Logistic Regression,0.09334359985001543,0
+1193,"Malachard, Mr. Noel",male,2,,Logistic Regression,0.2703396341632471,0
+1194,"Phillips, Mr. Escott Robert",male,2,43.0,Logistic Regression,0.19691978476927852,0
+1195,"Pokrnic, Mr. Tome",male,3,24.0,Logistic Regression,0.11524751935102273,0
+1196,"McCarthy, Miss. Catherine Katie""""",female,3,,Logistic Regression,0.6044171724957391,1
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,1,64.0,Logistic Regression,0.7958913450854764,1
+1198,"Allison, Mr. Hudson Joshua Creighton",male,1,30.0,Logistic Regression,0.4001190664293555,0
+1199,"Aks, Master. Philip Frank",male,3,0.83,Logistic Regression,0.5152228300912643,1
+1200,"Hays, Mr. Charles Melville",male,1,55.0,Logistic Regression,0.2920469629098143,0
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,3,45.0,Logistic Regression,0.6041084560056316,1
+1202,"Cacic, Mr. Jego Grga",male,3,18.0,Logistic Regression,0.13032056793820454,0
+1203,"Vartanian, Mr. David",male,3,22.0,Logistic Regression,0.15052436925249174,0
+1204,"Sadowitz, Mr. Harry",male,3,,Logistic Regression,0.0895534656009361,0
+1205,"Carr, Miss. Jeannie",female,3,37.0,Logistic Regression,0.5844781130205235,1
+1206,"White, Mrs. John Stuart (Ella Holmes)",female,1,55.0,Logistic Regression,0.8984136820679229,1
+1207,"Hagardon, Miss. Kate",female,3,17.0,Logistic Regression,0.6915163624976971,1
+1208,"Spencer, Mr. William Augustus",male,1,57.0,Logistic Regression,0.4090137228148976,0
+1209,"Rogers, Mr. Reginald Harry",male,2,19.0,Logistic Regression,0.23778180460073128,0
+1210,"Jonsson, Mr. Nils Hilding",male,3,27.0,Logistic Regression,0.10412499054901544,0
+1211,"Jefferys, Mr. Ernest Wilfred",male,2,22.0,Logistic Regression,0.32759520418311033,0
+1212,"Andersson, Mr. Johan Samuel",male,3,26.0,Logistic Regression,0.10589474941147924,0
+1213,"Krekorian, Mr. Neshan",male,3,25.0,Logistic Regression,0.1418161648921667,0
+1214,"Nesson, Mr. Israel",male,2,26.0,Logistic Regression,0.22628624904186537,0
+1215,"Rowe, Mr. Alfred G",male,1,33.0,Logistic Regression,0.34485382230548867,0
+1216,"Kreuchen, Miss. Emilie",female,1,39.0,Logistic Regression,0.8922842833119368,1
+1217,"Assam, Mr. Ali",male,3,23.0,Logistic Regression,0.10844767129702325,0
+1218,"Becker, Miss. Ruth Elizabeth",female,2,12.0,Logistic Regression,0.8454772075653457,1
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",male,1,46.0,Logistic Regression,0.4835348963163792,0
+1220,"Clarke, Mr. Charles Valentine",male,2,29.0,Logistic Regression,0.27373192274570285,0
+1221,"Enander, Mr. Ingvar",male,2,21.0,Logistic Regression,0.2473767094016618,0
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,2,48.0,Logistic Regression,0.7589078319961273,1
+1223,"Dulles, Mr. William Crothers",male,1,39.0,Logistic Regression,0.4048360058294472,0
+1224,"Thomas, Mr. Tannous",male,3,,Logistic Regression,0.11941097806549546,0
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,3,19.0,Logistic Regression,0.7510014244199186,1
+1226,"Cor, Mr. Ivan",male,3,27.0,Logistic Regression,0.1043450896897102,0
+1227,"Maguire, Mr. John Edward",male,1,30.0,Logistic Regression,0.3585116322479615,0
+1228,"de Brito, Mr. Jose Joaquim",male,2,32.0,Logistic Regression,0.20270070548635466,0
+1229,"Elias, Mr. Joseph",male,3,39.0,Logistic Regression,0.10585483013253304,0
+1230,"Denbury, Mr. Herbert",male,2,25.0,Logistic Regression,0.31377819840457494,0
+1231,"Betros, Master. Seman",male,3,,Logistic Regression,0.3851866353359327,0
+1232,"Fillbrook, Mr. Joseph Charles",male,2,18.0,Logistic Regression,0.24203962445274563,0
+1233,"Lundstrom, Mr. Thure Edvin",male,3,32.0,Logistic Regression,0.09238758546868246,0
+1234,"Sage, Mr. John George",male,3,,Logistic Regression,0.034704140902283714,0
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,1,58.0,Logistic Regression,0.9406632013646102,1
+1236,"van Billiard, Master. James William",male,3,,Logistic Regression,0.3780507816671675,0
+1237,"Abelseth, Miss. Karen Marie",female,3,16.0,Logistic Regression,0.6247581649013771,1
+1238,"Botsford, Mr. William Hull",male,2,26.0,Logistic Regression,0.22628624904186537,0
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,3,38.0,Logistic Regression,0.6523019087983837,1
+1240,"Giles, Mr. Ralph",male,2,24.0,Logistic Regression,0.2377501315186381,0
+1241,"Walcroft, Miss. Nellie",female,2,31.0,Logistic Regression,0.7855057688760403,1
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,1,45.0,Logistic Regression,0.9291159073517178,1
+1243,"Stokes, Mr. Philip Joseph",male,2,25.0,Logistic Regression,0.21332845212752533,0
+1244,"Dibden, Mr. William",male,2,18.0,Logistic Regression,0.27190697312162454,0
+1245,"Herman, Mr. Samuel",male,2,49.0,Logistic Regression,0.2084516236621983,0
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",female,3,0.17,Logistic Regression,0.7323630295621739,1
+1247,"Julian, Mr. Henry Forbes",male,1,50.0,Logistic Regression,0.2594508633493634,0
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,1,59.0,Logistic Regression,0.858348127347649,1
+1249,"Lockyer, Mr. Edward",male,3,,Logistic Regression,0.09099319263237877,0
+1250,"O'Keefe, Mr. Patrick",male,3,,Logistic Regression,0.11994138652935334,0
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,3,30.0,Logistic Regression,0.6939592673877781,1
+1252,"Sage, Master. William Henry",male,3,14.5,Logistic Regression,0.20542039256873953,0
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",female,2,24.0,Logistic Regression,0.8861918960326356,1
+1254,"Ware, Mrs. John James (Florence Louise Long)",female,2,31.0,Logistic Regression,0.8339883436071737,1
+1255,"Strilic, Mr. Ivan",male,3,27.0,Logistic Regression,0.10829513554434402,0
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",female,1,25.0,Logistic Regression,0.951393578581593,1
+1257,"Sage, Mrs. John (Annie Bullen)",female,3,,Logistic Regression,0.3560455362510981,0
+1258,"Caram, Mr. Joseph",male,3,,Logistic Regression,0.15612857471489908,0
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,3,22.0,Logistic Regression,0.5758056017418356,1
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,1,45.0,Logistic Regression,0.9269844748590915,1
+1261,"Pallas y Castello, Mr. Emilio",male,2,29.0,Logistic Regression,0.28343418724565295,0
+1262,"Giles, Mr. Edgar",male,2,21.0,Logistic Regression,0.23572488745040476,0
+1263,"Wilson, Miss. Helen Alice",female,1,31.0,Logistic Regression,0.9321446658817546,1
+1264,"Ismay, Mr. Joseph Bruce",male,1,49.0,Logistic Regression,0.0639861384204746,0
+1265,"Harbeck, Mr. William H",male,2,44.0,Logistic Regression,0.16114998261684482,0
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",female,1,54.0,Logistic Regression,0.8954882608686825,1
+1267,"Bowen, Miss. Grace Scott",female,1,45.0,Logistic Regression,0.9324945666603891,1
+1268,"Kink, Miss. Maria",female,3,22.0,Logistic Regression,0.6031833799458276,1
+1269,"Cotterill, Mr. Henry Harry""""",male,2,21.0,Logistic Regression,0.2369189887312168,0
+1270,"Hipkins, Mr. William Edward",male,1,55.0,Logistic Regression,0.30032889958319303,0
+1271,"Asplund, Master. Carl Edgar",male,3,5.0,Logistic Regression,0.22486578579451016,0
+1272,"O'Connor, Mr. Patrick",male,3,,Logistic Regression,0.11994138652935334,0
+1273,"Foley, Mr. Joseph",male,3,26.0,Logistic Regression,0.1404584795097935,0
+1274,"Risien, Mrs. Samuel (Emma)",female,3,,Logistic Regression,0.6707591177701512,1
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",female,3,19.0,Logistic Regression,0.7487549990315384,1
+1276,"Wheeler, Mr. Edwin Frederick""""",male,2,,Logistic Regression,0.1965436603257627,0
+1277,"Herman, Miss. Kate",female,2,24.0,Logistic Regression,0.8410884634393979,1
+1278,"Aronsson, Mr. Ernst Axel Algot",male,3,24.0,Logistic Regression,0.11039837295048371,0
+1279,"Ashby, Mr. John",male,2,57.0,Logistic Regression,0.12420017371910248,0
+1280,"Canavan, Mr. Patrick",male,3,21.0,Logistic Regression,0.15418989136849567,0
+1281,"Palsson, Master. Paul Folke",male,3,6.0,Logistic Regression,0.19245658936336027,0
+1282,"Payne, Mr. Vivian Ponsonby",male,1,23.0,Logistic Regression,0.46713368040156833,0
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,1,51.0,Logistic Regression,0.8649331105668979,1
+1284,"Abbott, Master. Eugene Joseph",male,3,13.0,Logistic Regression,0.45340005761743774,0
+1285,"Gilbert, Mr. William",male,2,47.0,Logistic Regression,0.1395933001741904,0
+1286,"Kink-Heilmann, Mr. Anton",male,3,29.0,Logistic Regression,0.05483334191282009,0
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,1,18.0,Logistic Regression,0.9445193492159824,1
+1288,"Colbert, Mr. Patrick",male,3,24.0,Logistic Regression,0.14163813671672884,0
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,1,48.0,Logistic Regression,0.9317448455870095,1
+1290,"Larsson-Rondberg, Mr. Edvard A",male,3,22.0,Logistic Regression,0.11506888207288422,0
+1291,"Conlon, Mr. Thomas Henry",male,3,31.0,Logistic Regression,0.12602537432239594,0
+1292,"Bonnell, Miss. Caroline",female,1,30.0,Logistic Regression,0.917013295785718,1
+1293,"Gale, Mr. Harry",male,2,38.0,Logistic Regression,0.2160374525383881,0
+1294,"Gibson, Miss. Dorothy Winifred",female,1,22.0,Logistic Regression,0.9405982364816423,1
+1295,"Carrau, Mr. Jose Pedro",male,1,17.0,Logistic Regression,0.5030289779006306,1
+1296,"Frauenthal, Mr. Isaac Gerald",male,1,43.0,Logistic Regression,0.3731131359230537,0
+1297,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,2,20.0,Logistic Regression,0.32800977412543797,0
+1298,"Ware, Mr. William Jeffery",male,2,23.0,Logistic Regression,0.2201324263596045,0
+1299,"Widener, Mr. George Dunton",male,1,50.0,Logistic Regression,0.5803326474679805,1
+1300,"Riordan, Miss. Johanna Hannah""""",female,3,,Logistic Regression,0.6040151635274803,1
+1301,"Peacock, Miss. Treasteall",female,3,3.0,Logistic Regression,0.7457300647723452,1
+1302,"Naughton, Miss. Hannah",female,3,,Logistic Regression,0.6044171724957391,1
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,1,37.0,Logistic Regression,0.9285757881529446,1
+1304,"Henriksson, Miss. Jenny Lovisa",female,3,28.0,Logistic Regression,0.5589279880617151,1
+1305,"Spector, Mr. Woolf",male,3,,Logistic Regression,0.091788862837082,0
+1306,"Oliva y Ocana, Dona. Fermina",female,1,39.0,Logistic Regression,0.8746359203307469,1
+1307,"Saether, Mr. Simon Sivertsen",male,3,38.5,Logistic Regression,0.07898084703032636,0
+1308,"Ware, Mr. Frederick",male,3,,Logistic Regression,0.09178886283708203,0
+1309,"Peter, Master. Michael J",male,3,,Logistic Regression,0.4311770276750008,0
+892,"Kelly, Mr. James",male,3,34.5,Decision Tree,0.08771929824561403,0
+893,"Wilkes, Mrs. James (Ellen Needs)",female,3,47.0,Decision Tree,0.14285714285714285,0
+894,"Myles, Mr. Thomas Francis",male,2,62.0,Decision Tree,0.08771929824561403,0
+895,"Wirz, Mr. Albert",male,3,27.0,Decision Tree,0.08771929824561403,0
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,3,22.0,Decision Tree,0.35294117647058826,0
+897,"Svensson, Mr. Johan Cervin",male,3,14.0,Decision Tree,0.08771929824561403,0
+898,"Connolly, Miss. Kate",female,3,30.0,Decision Tree,0.7857142857142857,1
+899,"Caldwell, Mr. Albert Francis",male,2,26.0,Decision Tree,0.08771929824561403,0
+900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,3,18.0,Decision Tree,0.7857142857142857,1
+901,"Davies, Mr. John Samuel",male,3,21.0,Decision Tree,0.08771929824561403,0
+902,"Ilieff, Mr. Ylio",male,3,,Decision Tree,0.08771929824561403,0
+903,"Jones, Mr. Charles Cresson",male,1,46.0,Decision Tree,0.14285714285714285,0
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,1,23.0,Decision Tree,1.0,1
+905,"Howard, Mr. Benjamin",male,2,63.0,Decision Tree,0.08771929824561403,0
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,1,47.0,Decision Tree,1.0,1
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,2,24.0,Decision Tree,0.8333333333333334,1
+908,"Keane, Mr. Daniel",male,2,35.0,Decision Tree,0.08771929824561403,0
+909,"Assaf, Mr. Gerios",male,3,21.0,Decision Tree,0.20408163265306123,0
+910,"Ilmakangas, Miss. Ida Livija",female,3,27.0,Decision Tree,0.35294117647058826,0
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,3,45.0,Decision Tree,0.14285714285714285,0
+912,"Rothschild, Mr. Martin",male,1,55.0,Decision Tree,0.0,0
+913,"Olsen, Master. Artur Karl",male,3,9.0,Decision Tree,1.0,1
+914,"Flegenheim, Mrs. Alfred (Antoinette)",female,1,,Decision Tree,1.0,1
+915,"Williams, Mr. Richard Norris II",male,1,21.0,Decision Tree,0.0,0
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,1,48.0,Decision Tree,1.0,1
+917,"Robins, Mr. Alexander A",male,3,50.0,Decision Tree,0.08771929824561403,0
+918,"Ostby, Miss. Helene Ragnhild",female,1,22.0,Decision Tree,1.0,1
+919,"Daher, Mr. Shedid",male,3,22.5,Decision Tree,0.20408163265306123,0
+920,"Brady, Mr. John Bertram",male,1,41.0,Decision Tree,0.4,0
+921,"Samaan, Mr. Elias",male,3,,Decision Tree,0.20408163265306123,0
+922,"Louch, Mr. Charles Alexander",male,2,50.0,Decision Tree,0.08771929824561403,0
+923,"Jefferys, Mr. Clifford Thomas",male,2,24.0,Decision Tree,0.0,0
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,3,33.0,Decision Tree,0.6666666666666666,1
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,3,,Decision Tree,0.6666666666666666,1
+926,"Mock, Mr. Philipp Edmund",male,1,30.0,Decision Tree,0.4,0
+927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,3,18.5,Decision Tree,0.20408163265306123,0
+928,"Roth, Miss. Sarah A",female,3,,Decision Tree,0.35294117647058826,0
+929,"Cacic, Miss. Manda",female,3,21.0,Decision Tree,0.35294117647058826,0
+930,"Sap, Mr. Julius",male,3,25.0,Decision Tree,0.08771929824561403,0
+931,"Hee, Mr. Ling",male,3,,Decision Tree,0.7142857142857143,1
+932,"Karun, Mr. Franz",male,3,39.0,Decision Tree,0.20408163265306123,0
+933,"Franklin, Mr. Thomas Parham",male,1,,Decision Tree,0.4,0
+934,"Goldsmith, Mr. Nathan",male,3,41.0,Decision Tree,0.08771929824561403,0
+935,"Corbett, Mrs. Walter H (Irene Colvin)",female,2,30.0,Decision Tree,1.0,1
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,1,45.0,Decision Tree,1.0,1
+937,"Peltomaki, Mr. Nikolai Johannes",male,3,25.0,Decision Tree,0.08771929824561403,0
+938,"Chevre, Mr. Paul Romaine",male,1,45.0,Decision Tree,0.0,0
+939,"Shaughnessy, Mr. Patrick",male,3,,Decision Tree,0.08771929824561403,0
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,1,60.0,Decision Tree,1.0,1
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,3,36.0,Decision Tree,0.6666666666666666,1
+942,"Smith, Mr. Lucien Philip",male,1,24.0,Decision Tree,0.4,0
+943,"Pulbaum, Mr. Franz",male,2,27.0,Decision Tree,0.20408163265306123,0
+944,"Hocking, Miss. Ellen Nellie""""",female,2,20.0,Decision Tree,1.0,1
+945,"Fortune, Miss. Ethel Flora",female,1,28.0,Decision Tree,0.6,1
+946,"Mangiavacchi, Mr. Serafino Emilio",male,2,,Decision Tree,0.20408163265306123,0
+947,"Rice, Master. Albert",male,3,10.0,Decision Tree,0.08771929824561403,0
+948,"Cor, Mr. Bartol",male,3,35.0,Decision Tree,0.08771929824561403,0
+949,"Abelseth, Mr. Olaus Jorgensen",male,3,25.0,Decision Tree,0.0,0
+950,"Davison, Mr. Thomas Henry",male,3,,Decision Tree,0.08771929824561403,0
+951,"Chaudanson, Miss. Victorine",female,1,36.0,Decision Tree,1.0,1
+952,"Dika, Mr. Mirko",male,3,17.0,Decision Tree,0.08771929824561403,0
+953,"McCrae, Mr. Arthur Gordon",male,2,32.0,Decision Tree,0.08771929824561403,0
+954,"Bjorklund, Mr. Ernst Herbert",male,3,18.0,Decision Tree,0.08771929824561403,0
+955,"Bradley, Miss. Bridget Delia",female,3,22.0,Decision Tree,0.7857142857142857,1
+956,"Ryerson, Master. John Borie",male,1,13.0,Decision Tree,0.2,0
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,2,,Decision Tree,1.0,1
+958,"Burns, Miss. Mary Delia",female,3,18.0,Decision Tree,0.7857142857142857,1
+959,"Moore, Mr. Clarence Bloomfield",male,1,47.0,Decision Tree,0.0,0
+960,"Tucker, Mr. Gilbert Milligan Jr",male,1,31.0,Decision Tree,0.4,0
+961,"Fortune, Mrs. Mark (Mary McDougald)",female,1,60.0,Decision Tree,0.6,1
+962,"Mulvihill, Miss. Bertha E",female,3,24.0,Decision Tree,0.7857142857142857,1
+963,"Minkoff, Mr. Lazar",male,3,21.0,Decision Tree,0.08771929824561403,0
+964,"Nieminen, Miss. Manta Josefina",female,3,29.0,Decision Tree,0.35294117647058826,0
+965,"Ovies y Rodriguez, Mr. Servando",male,1,28.5,Decision Tree,0.4,0
+966,"Geiger, Miss. Amalie",female,1,35.0,Decision Tree,1.0,1
+967,"Keeping, Mr. Edwin",male,1,32.5,Decision Tree,0.4,0
+968,"Miles, Mr. Frank",male,3,,Decision Tree,0.08771929824561403,0
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,1,55.0,Decision Tree,0.6666666666666666,1
+970,"Aldworth, Mr. Charles Augustus",male,2,30.0,Decision Tree,0.08771929824561403,0
+971,"Doyle, Miss. Elizabeth",female,3,24.0,Decision Tree,0.7857142857142857,1
+972,"Boulos, Master. Akar",male,3,6.0,Decision Tree,1.0,1
+973,"Straus, Mr. Isidor",male,1,67.0,Decision Tree,0.22727272727272727,0
+974,"Case, Mr. Howard Brown",male,1,49.0,Decision Tree,0.14285714285714285,0
+975,"Demetri, Mr. Marinko",male,3,,Decision Tree,0.08771929824561403,0
+976,"Lamb, Mr. John Joseph",male,2,,Decision Tree,0.08771929824561403,0
+977,"Khalil, Mr. Betros",male,3,,Decision Tree,0.20408163265306123,0
+978,"Barry, Miss. Julia",female,3,27.0,Decision Tree,0.7857142857142857,1
+979,"Badman, Miss. Emily Louisa",female,3,18.0,Decision Tree,0.35294117647058826,0
+980,"O'Donoghue, Ms. Bridget",female,3,,Decision Tree,0.7857142857142857,1
+981,"Wells, Master. Ralph Lester",male,2,2.0,Decision Tree,1.0,1
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,3,22.0,Decision Tree,0.35294117647058826,0
+983,"Pedersen, Mr. Olaf",male,3,,Decision Tree,0.08771929824561403,0
+984,"Davidson, Mrs. Thornton (Orian Hays)",female,1,27.0,Decision Tree,1.0,1
+985,"Guest, Mr. Robert",male,3,,Decision Tree,0.08771929824561403,0
+986,"Birnbaum, Mr. Jakob",male,1,25.0,Decision Tree,0.5,0
+987,"Tenglin, Mr. Gunnar Isidor",male,3,25.0,Decision Tree,0.08771929824561403,0
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,1,76.0,Decision Tree,1.0,1
+989,"Makinen, Mr. Kalle Edvard",male,3,29.0,Decision Tree,0.08771929824561403,0
+990,"Braf, Miss. Elin Ester Maria",female,3,20.0,Decision Tree,0.6153846153846154,1
+991,"Nancarrow, Mr. William Henry",male,3,33.0,Decision Tree,0.08771929824561403,0
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,1,43.0,Decision Tree,1.0,1
+993,"Weisz, Mr. Leopold",male,2,27.0,Decision Tree,0.08771929824561403,0
+994,"Foley, Mr. William",male,3,,Decision Tree,0.08771929824561403,0
+995,"Johansson Palmquist, Mr. Oskar Leander",male,3,26.0,Decision Tree,0.08771929824561403,0
+996,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,3,16.0,Decision Tree,0.35294117647058826,0
+997,"Holthen, Mr. Johan Martin",male,3,28.0,Decision Tree,0.08771929824561403,0
+998,"Buckley, Mr. Daniel",male,3,21.0,Decision Tree,0.08771929824561403,0
+999,"Ryan, Mr. Edward",male,3,,Decision Tree,0.08771929824561403,0
+1000,"Willer, Mr. Aaron (Abi Weller"")""",male,3,,Decision Tree,0.08771929824561403,0
+1001,"Swane, Mr. George",male,2,18.5,Decision Tree,0.4,0
+1002,"Stanton, Mr. Samuel Ward",male,2,41.0,Decision Tree,0.20408163265306123,0
+1003,"Shine, Miss. Ellen Natalia",female,3,,Decision Tree,0.7857142857142857,1
+1004,"Evans, Miss. Edith Corse",female,1,36.0,Decision Tree,1.0,1
+1005,"Buckley, Miss. Katherine",female,3,18.5,Decision Tree,0.7857142857142857,1
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,1,63.0,Decision Tree,1.0,1
+1007,"Chronopoulos, Mr. Demetrios",male,3,18.0,Decision Tree,0.20408163265306123,0
+1008,"Thomas, Mr. John",male,3,,Decision Tree,0.20408163265306123,0
+1009,"Sandstrom, Miss. Beatrice Irene",female,3,1.0,Decision Tree,1.0,1
+1010,"Beattie, Mr. Thomson",male,1,36.0,Decision Tree,0.4,0
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,2,29.0,Decision Tree,1.0,1
+1012,"Watt, Miss. Bertha J",female,2,12.0,Decision Tree,1.0,1
+1013,"Kiernan, Mr. John",male,3,,Decision Tree,0.08771929824561403,0
+1014,"Schabert, Mrs. Paul (Emma Mock)",female,1,35.0,Decision Tree,1.0,1
+1015,"Carver, Mr. Alfred John",male,3,28.0,Decision Tree,0.08771929824561403,0
+1016,"Kennedy, Mr. John",male,3,,Decision Tree,0.08771929824561403,0
+1017,"Cribb, Miss. Laura Alice",female,3,17.0,Decision Tree,0.6666666666666666,1
+1018,"Brobeck, Mr. Karl Rudolf",male,3,22.0,Decision Tree,0.08771929824561403,0
+1019,"McCoy, Miss. Alicia",female,3,,Decision Tree,0.6666666666666666,1
+1020,"Bowenur, Mr. Solomon",male,2,42.0,Decision Tree,0.08771929824561403,0
+1021,"Petersen, Mr. Marius",male,3,24.0,Decision Tree,0.08771929824561403,0
+1022,"Spinner, Mr. Henry John",male,3,32.0,Decision Tree,0.08771929824561403,0
+1023,"Gracie, Col. Archibald IV",male,1,53.0,Decision Tree,0.22727272727272727,0
+1024,"Lefebre, Mrs. Frank (Frances)",female,3,,Decision Tree,0.3333333333333333,0
+1025,"Thomas, Mr. Charles P",male,3,,Decision Tree,0.20408163265306123,0
+1026,"Dintcheff, Mr. Valtcho",male,3,43.0,Decision Tree,0.08771929824561403,0
+1027,"Carlsson, Mr. Carl Robert",male,3,24.0,Decision Tree,0.08771929824561403,0
+1028,"Zakarian, Mr. Mapriededer",male,3,26.5,Decision Tree,0.20408163265306123,0
+1029,"Schmidt, Mr. August",male,2,26.0,Decision Tree,0.08771929824561403,0
+1030,"Drapkin, Miss. Jennie",female,3,23.0,Decision Tree,0.35294117647058826,0
+1031,"Goodwin, Mr. Charles Frederick",male,3,40.0,Decision Tree,0.0,0
+1032,"Goodwin, Miss. Jessie Allis",female,3,10.0,Decision Tree,0.0,0
+1033,"Daniels, Miss. Sarah",female,1,33.0,Decision Tree,1.0,1
+1034,"Ryerson, Mr. Arthur Larned",male,1,61.0,Decision Tree,0.2,0
+1035,"Beauchamp, Mr. Henry James",male,2,28.0,Decision Tree,0.08771929824561403,0
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,1,42.0,Decision Tree,0.14285714285714285,0
+1037,"Vander Planke, Mr. Julius",male,3,31.0,Decision Tree,0.08771929824561403,0
+1038,"Hilliard, Mr. Herbert Henry",male,1,,Decision Tree,1.0,1
+1039,"Davies, Mr. Evan",male,3,22.0,Decision Tree,0.08771929824561403,0
+1040,"Crafton, Mr. John Bertram",male,1,,Decision Tree,0.5,0
+1041,"Lahtinen, Rev. William",male,2,30.0,Decision Tree,0.08771929824561403,0
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",female,1,23.0,Decision Tree,1.0,1
+1043,"Matinoff, Mr. Nicola",male,3,,Decision Tree,0.20408163265306123,0
+1044,"Storey, Mr. Thomas",male,3,60.5,Decision Tree,0.08771929824561403,0
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,3,36.0,Decision Tree,0.35294117647058826,0
+1046,"Asplund, Master. Filip Oscar",male,3,13.0,Decision Tree,0.0,0
+1047,"Duquemin, Mr. Joseph",male,3,24.0,Decision Tree,0.08771929824561403,0
+1048,"Bird, Miss. Ellen",female,1,29.0,Decision Tree,1.0,1
+1049,"Lundin, Miss. Olga Elida",female,3,23.0,Decision Tree,0.6153846153846154,1
+1050,"Borebank, Mr. John James",male,1,42.0,Decision Tree,0.4,0
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",female,3,26.0,Decision Tree,0.35294117647058826,0
+1052,"Smyth, Miss. Julia",female,3,,Decision Tree,0.7857142857142857,1
+1053,"Touma, Master. Georges Youssef",male,3,7.0,Decision Tree,1.0,1
+1054,"Wright, Miss. Marion",female,2,26.0,Decision Tree,0.6,1
+1055,"Pearce, Mr. Ernest",male,3,,Decision Tree,0.08771929824561403,0
+1056,"Peruschitz, Rev. Joseph Maria",male,2,41.0,Decision Tree,0.08771929824561403,0
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,3,26.0,Decision Tree,0.6666666666666666,1
+1058,"Brandeis, Mr. Emil",male,1,48.0,Decision Tree,0.8333333333333334,1
+1059,"Ford, Mr. Edward Watson",male,3,18.0,Decision Tree,0.0,0
+1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,1,,Decision Tree,1.0,1
+1061,"Hellstrom, Miss. Hilda Maria",female,3,22.0,Decision Tree,0.35294117647058826,0
+1062,"Lithman, Mr. Simon",male,3,,Decision Tree,0.08771929824561403,0
+1063,"Zakarian, Mr. Ortin",male,3,27.0,Decision Tree,0.20408163265306123,0
+1064,"Dyker, Mr. Adolf Fredrik",male,3,23.0,Decision Tree,0.08771929824561403,0
+1065,"Torfa, Mr. Assad",male,3,,Decision Tree,0.20408163265306123,0
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,3,40.0,Decision Tree,0.0,0
+1067,"Brown, Miss. Edith Eileen",female,2,15.0,Decision Tree,1.0,1
+1068,"Sincock, Miss. Maude",female,2,20.0,Decision Tree,1.0,1
+1069,"Stengel, Mr. Charles Emil Henry",male,1,54.0,Decision Tree,0.22727272727272727,0
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,2,36.0,Decision Tree,1.0,1
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,1,64.0,Decision Tree,1.0,1
+1072,"McCrie, Mr. James Matthew",male,2,30.0,Decision Tree,0.08771929824561403,0
+1073,"Compton, Mr. Alexander Taylor Jr",male,1,37.0,Decision Tree,0.4,0
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,1,18.0,Decision Tree,1.0,1
+1075,"Lane, Mr. Patrick",male,3,,Decision Tree,0.08771929824561403,0
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,1,27.0,Decision Tree,1.0,1
+1077,"Maybery, Mr. Frank Hubert",male,2,40.0,Decision Tree,0.08771929824561403,0
+1078,"Phillips, Miss. Alice Frances Louisa",female,2,21.0,Decision Tree,1.0,1
+1079,"Davies, Mr. Joseph",male,3,17.0,Decision Tree,0.08771929824561403,0
+1080,"Sage, Miss. Ada",female,3,,Decision Tree,0.0,0
+1081,"Veal, Mr. James",male,2,40.0,Decision Tree,0.08771929824561403,0
+1082,"Angle, Mr. William A",male,2,34.0,Decision Tree,0.08771929824561403,0
+1083,"Salomon, Mr. Abraham L",male,1,,Decision Tree,0.5,0
+1084,"van Billiard, Master. Walter John",male,3,11.5,Decision Tree,0.08771929824561403,0
+1085,"Lingane, Mr. John",male,2,61.0,Decision Tree,0.08771929824561403,0
+1086,"Drew, Master. Marshall Brines",male,2,8.0,Decision Tree,1.0,1
+1087,"Karlsson, Mr. Julius Konrad Eugen",male,3,33.0,Decision Tree,0.08771929824561403,0
+1088,"Spedden, Master. Robert Douglas",male,1,6.0,Decision Tree,1.0,1
+1089,"Nilsson, Miss. Berta Olivia",female,3,18.0,Decision Tree,0.6153846153846154,1
+1090,"Baimbrigge, Mr. Charles Robert",male,2,23.0,Decision Tree,0.08771929824561403,0
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,3,,Decision Tree,0.35294117647058826,0
+1092,"Murphy, Miss. Nora",female,3,,Decision Tree,0.6666666666666666,1
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",male,3,0.33,Decision Tree,1.0,1
+1094,"Astor, Col. John Jacob",male,1,47.0,Decision Tree,0.0,0
+1095,"Quick, Miss. Winifred Vera",female,2,8.0,Decision Tree,1.0,1
+1096,"Andrew, Mr. Frank Thomas",male,2,25.0,Decision Tree,0.08771929824561403,0
+1097,"Omont, Mr. Alfred Fernand",male,1,,Decision Tree,0.5,0
+1098,"McGowan, Miss. Katherine",female,3,35.0,Decision Tree,0.7857142857142857,1
+1099,"Collett, Mr. Sidney C Stuart",male,2,24.0,Decision Tree,0.08771929824561403,0
+1100,"Rosenbaum, Miss. Edith Louise",female,1,33.0,Decision Tree,1.0,1
+1101,"Delalic, Mr. Redjo",male,3,25.0,Decision Tree,0.08771929824561403,0
+1102,"Andersen, Mr. Albert Karvin",male,3,32.0,Decision Tree,0.08771929824561403,0
+1103,"Finoli, Mr. Luigi",male,3,,Decision Tree,0.08771929824561403,0
+1104,"Deacon, Mr. Percy William",male,2,17.0,Decision Tree,0.0,0
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,2,60.0,Decision Tree,0.8571428571428571,1
+1106,"Andersson, Miss. Ida Augusta Margareta",female,3,38.0,Decision Tree,0.3333333333333333,0
+1107,"Head, Mr. Christopher",male,1,42.0,Decision Tree,0.75,1
+1108,"Mahon, Miss. Bridget Delia",female,3,,Decision Tree,0.7857142857142857,1
+1109,"Wick, Mr. George Dennick",male,1,57.0,Decision Tree,0.2,0
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,1,50.0,Decision Tree,1.0,1
+1111,"Thomson, Mr. Alexander Morrison",male,3,,Decision Tree,0.08771929824561403,0
+1112,"Duran y More, Miss. Florentina",female,2,30.0,Decision Tree,1.0,1
+1113,"Reynolds, Mr. Harold J",male,3,21.0,Decision Tree,0.08771929824561403,0
+1114,"Cook, Mrs. (Selena Rogers)",female,2,22.0,Decision Tree,1.0,1
+1115,"Karlsson, Mr. Einar Gervasius",male,3,21.0,Decision Tree,0.08771929824561403,0
+1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,1,53.0,Decision Tree,0.8571428571428571,1
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,3,,Decision Tree,0.35294117647058826,0
+1118,"Asplund, Mr. Johan Charles",male,3,23.0,Decision Tree,0.08771929824561403,0
+1119,"McNeill, Miss. Bridget",female,3,,Decision Tree,0.7857142857142857,1
+1120,"Everett, Mr. Thomas James",male,3,40.5,Decision Tree,0.08771929824561403,0
+1121,"Hocking, Mr. Samuel James Metcalfe",male,2,36.0,Decision Tree,0.08771929824561403,0
+1122,"Sweet, Mr. George Frederick",male,2,14.0,Decision Tree,0.0,0
+1123,"Willard, Miss. Constance",female,1,21.0,Decision Tree,1.0,1
+1124,"Wiklund, Mr. Karl Johan",male,3,21.0,Decision Tree,0.08771929824561403,0
+1125,"Linehan, Mr. Michael",male,3,,Decision Tree,0.08771929824561403,0
+1126,"Cumings, Mr. John Bradley",male,1,39.0,Decision Tree,0.4,0
+1127,"Vendel, Mr. Olof Edvin",male,3,20.0,Decision Tree,0.08771929824561403,0
+1128,"Warren, Mr. Frank Manley",male,1,64.0,Decision Tree,0.22727272727272727,0
+1129,"Baccos, Mr. Raffull",male,3,20.0,Decision Tree,0.20408163265306123,0
+1130,"Hiltunen, Miss. Marta",female,2,18.0,Decision Tree,1.0,1
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,1,48.0,Decision Tree,1.0,1
+1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,1,55.0,Decision Tree,0.8571428571428571,1
+1133,"Christy, Mrs. (Alice Frances)",female,2,45.0,Decision Tree,1.0,1
+1134,"Spedden, Mr. Frederic Oakley",male,1,45.0,Decision Tree,0.0,0
+1135,"Hyman, Mr. Abraham",male,3,,Decision Tree,0.08771929824561403,0
+1136,"Johnston, Master. William Arthur Willie""""",male,3,,Decision Tree,0.08771929824561403,0
+1137,"Kenyon, Mr. Frederick R",male,1,41.0,Decision Tree,0.4,0
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",female,2,22.0,Decision Tree,1.0,1
+1139,"Drew, Mr. James Vivian",male,2,42.0,Decision Tree,0.0,0
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,2,29.0,Decision Tree,1.0,1
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,3,,Decision Tree,0.35294117647058826,0
+1142,"West, Miss. Barbara J",female,2,0.92,Decision Tree,1.0,1
+1143,"Abrahamsson, Mr. Abraham August Johannes",male,3,20.0,Decision Tree,0.08771929824561403,0
+1144,"Clark, Mr. Walter Miller",male,1,27.0,Decision Tree,0.4,0
+1145,"Salander, Mr. Karl Johan",male,3,24.0,Decision Tree,0.08771929824561403,0
+1146,"Wenzel, Mr. Linhart",male,3,32.5,Decision Tree,0.08771929824561403,0
+1147,"MacKay, Mr. George William",male,3,,Decision Tree,0.08771929824561403,0
+1148,"Mahon, Mr. John",male,3,,Decision Tree,0.08771929824561403,0
+1149,"Niklasson, Mr. Samuel",male,3,28.0,Decision Tree,0.08771929824561403,0
+1150,"Bentham, Miss. Lilian W",female,2,19.0,Decision Tree,1.0,1
+1151,"Midtsjo, Mr. Karl Albert",male,3,21.0,Decision Tree,0.08771929824561403,0
+1152,"de Messemaeker, Mr. Guillaume Joseph",male,3,36.5,Decision Tree,0.08771929824561403,0
+1153,"Nilsson, Mr. August Ferdinand",male,3,21.0,Decision Tree,0.08771929824561403,0
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,2,29.0,Decision Tree,1.0,1
+1155,"Klasen, Miss. Gertrud Emilia",female,3,1.0,Decision Tree,0.8,1
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,2,30.0,Decision Tree,0.20408163265306123,0
+1157,"Lyntakoff, Mr. Stanko",male,3,,Decision Tree,0.08771929824561403,0
+1158,"Chisholm, Mr. Roderick Robert Crispin",male,1,,Decision Tree,0.5,0
+1159,"Warren, Mr. Charles William",male,3,,Decision Tree,0.08771929824561403,0
+1160,"Howard, Miss. May Elizabeth",female,3,,Decision Tree,0.35294117647058826,0
+1161,"Pokrnic, Mr. Mate",male,3,17.0,Decision Tree,0.08771929824561403,0
+1162,"McCaffry, Mr. Thomas Francis",male,1,46.0,Decision Tree,0.0,0
+1163,"Fox, Mr. Patrick",male,3,,Decision Tree,0.08771929824561403,0
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,1,26.0,Decision Tree,1.0,1
+1165,"Lennon, Miss. Mary",female,3,,Decision Tree,0.6666666666666666,1
+1166,"Saade, Mr. Jean Nassr",male,3,,Decision Tree,0.20408163265306123,0
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,2,20.0,Decision Tree,1.0,1
+1168,"Parker, Mr. Clifford Richard",male,2,28.0,Decision Tree,0.08771929824561403,0
+1169,"Faunthorpe, Mr. Harry",male,2,40.0,Decision Tree,0.08771929824561403,0
+1170,"Ware, Mr. John James",male,2,30.0,Decision Tree,0.08771929824561403,0
+1171,"Oxenham, Mr. Percy Thomas",male,2,22.0,Decision Tree,0.08771929824561403,0
+1172,"Oreskovic, Miss. Jelka",female,3,23.0,Decision Tree,0.35294117647058826,0
+1173,"Peacock, Master. Alfred Edward",male,3,0.75,Decision Tree,1.0,1
+1174,"Fleming, Miss. Honora",female,3,,Decision Tree,0.7857142857142857,1
+1175,"Touma, Miss. Maria Youssef",female,3,9.0,Decision Tree,0.35294117647058826,0
+1176,"Rosblom, Miss. Salli Helena",female,3,2.0,Decision Tree,1.0,1
+1177,"Dennis, Mr. William",male,3,36.0,Decision Tree,0.08771929824561403,0
+1178,"Franklin, Mr. Charles (Charles Fardon)",male,3,,Decision Tree,0.08771929824561403,0
+1179,"Snyder, Mr. John Pillsbury",male,1,24.0,Decision Tree,0.75,1
+1180,"Mardirosian, Mr. Sarkis",male,3,,Decision Tree,0.0,0
+1181,"Ford, Mr. Arthur",male,3,,Decision Tree,0.08771929824561403,0
+1182,"Rheims, Mr. George Alexander Lucien",male,1,,Decision Tree,0.0,0
+1183,"Daly, Miss. Margaret Marcella Maggie""""",female,3,30.0,Decision Tree,0.7857142857142857,1
+1184,"Nasr, Mr. Mustafa",male,3,,Decision Tree,0.20408163265306123,0
+1185,"Dodge, Dr. Washington",male,1,53.0,Decision Tree,0.22727272727272727,0
+1186,"Wittevrongel, Mr. Camille",male,3,36.0,Decision Tree,0.08771929824561403,0
+1187,"Angheloff, Mr. Minko",male,3,26.0,Decision Tree,0.08771929824561403,0
+1188,"Laroche, Miss. Louise",female,2,1.0,Decision Tree,1.0,1
+1189,"Samaan, Mr. Hanna",male,3,,Decision Tree,0.20408163265306123,0
+1190,"Loring, Mr. Joseph Holland",male,1,30.0,Decision Tree,0.0,0
+1191,"Johansson, Mr. Nils",male,3,29.0,Decision Tree,0.08771929824561403,0
+1192,"Olsson, Mr. Oscar Wilhelm",male,3,32.0,Decision Tree,0.08771929824561403,0
+1193,"Malachard, Mr. Noel",male,2,,Decision Tree,0.20408163265306123,0
+1194,"Phillips, Mr. Escott Robert",male,2,43.0,Decision Tree,0.08771929824561403,0
+1195,"Pokrnic, Mr. Tome",male,3,24.0,Decision Tree,0.08771929824561403,0
+1196,"McCarthy, Miss. Catherine Katie""""",female,3,,Decision Tree,0.7857142857142857,1
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,1,64.0,Decision Tree,0.6666666666666666,1
+1198,"Allison, Mr. Hudson Joshua Creighton",male,1,30.0,Decision Tree,0.4,0
+1199,"Aks, Master. Philip Frank",male,3,0.83,Decision Tree,1.0,1
+1200,"Hays, Mr. Charles Melville",male,1,55.0,Decision Tree,0.22727272727272727,0
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,3,45.0,Decision Tree,0.14285714285714285,0
+1202,"Cacic, Mr. Jego Grga",male,3,18.0,Decision Tree,0.08771929824561403,0
+1203,"Vartanian, Mr. David",male,3,22.0,Decision Tree,0.20408163265306123,0
+1204,"Sadowitz, Mr. Harry",male,3,,Decision Tree,0.08771929824561403,0
+1205,"Carr, Miss. Jeannie",female,3,37.0,Decision Tree,0.14285714285714285,0
+1206,"White, Mrs. John Stuart (Ella Holmes)",female,1,55.0,Decision Tree,1.0,1
+1207,"Hagardon, Miss. Kate",female,3,17.0,Decision Tree,0.7857142857142857,1
+1208,"Spencer, Mr. William Augustus",male,1,57.0,Decision Tree,0.22727272727272727,0
+1209,"Rogers, Mr. Reginald Harry",male,2,19.0,Decision Tree,0.08771929824561403,0
+1210,"Jonsson, Mr. Nils Hilding",male,3,27.0,Decision Tree,0.08771929824561403,0
+1211,"Jefferys, Mr. Ernest Wilfred",male,2,22.0,Decision Tree,0.0,0
+1212,"Andersson, Mr. Johan Samuel",male,3,26.0,Decision Tree,0.08771929824561403,0
+1213,"Krekorian, Mr. Neshan",male,3,25.0,Decision Tree,0.0,0
+1214,"Nesson, Mr. Israel",male,2,26.0,Decision Tree,0.4,0
+1215,"Rowe, Mr. Alfred G",male,1,33.0,Decision Tree,0.5,0
+1216,"Kreuchen, Miss. Emilie",female,1,39.0,Decision Tree,1.0,1
+1217,"Assam, Mr. Ali",male,3,23.0,Decision Tree,0.08771929824561403,0
+1218,"Becker, Miss. Ruth Elizabeth",female,2,12.0,Decision Tree,1.0,1
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",male,1,46.0,Decision Tree,0.2,0
+1220,"Clarke, Mr. Charles Valentine",male,2,29.0,Decision Tree,0.08771929824561403,0
+1221,"Enander, Mr. Ingvar",male,2,21.0,Decision Tree,0.08771929824561403,0
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,2,48.0,Decision Tree,1.0,1
+1223,"Dulles, Mr. William Crothers",male,1,39.0,Decision Tree,0.4,0
+1224,"Thomas, Mr. Tannous",male,3,,Decision Tree,0.20408163265306123,0
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,3,19.0,Decision Tree,0.6666666666666666,1
+1226,"Cor, Mr. Ivan",male,3,27.0,Decision Tree,0.08771929824561403,0
+1227,"Maguire, Mr. John Edward",male,1,30.0,Decision Tree,0.4,0
+1228,"de Brito, Mr. Jose Joaquim",male,2,32.0,Decision Tree,0.08771929824561403,0
+1229,"Elias, Mr. Joseph",male,3,39.0,Decision Tree,0.20408163265306123,0
+1230,"Denbury, Mr. Herbert",male,2,25.0,Decision Tree,0.0,0
+1231,"Betros, Master. Seman",male,3,,Decision Tree,0.20408163265306123,0
+1232,"Fillbrook, Mr. Joseph Charles",male,2,18.0,Decision Tree,0.08771929824561403,0
+1233,"Lundstrom, Mr. Thure Edvin",male,3,32.0,Decision Tree,0.08771929824561403,0
+1234,"Sage, Mr. John George",male,3,,Decision Tree,0.0,0
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,1,58.0,Decision Tree,1.0,1
+1236,"van Billiard, Master. James William",male,3,,Decision Tree,0.08771929824561403,0
+1237,"Abelseth, Miss. Karen Marie",female,3,16.0,Decision Tree,0.6153846153846154,1
+1238,"Botsford, Mr. William Hull",male,2,26.0,Decision Tree,0.08771929824561403,0
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,3,38.0,Decision Tree,0.14285714285714285,0
+1240,"Giles, Mr. Ralph",male,2,24.0,Decision Tree,0.08771929824561403,0
+1241,"Walcroft, Miss. Nellie",female,2,31.0,Decision Tree,1.0,1
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,1,45.0,Decision Tree,1.0,1
+1243,"Stokes, Mr. Philip Joseph",male,2,25.0,Decision Tree,0.08771929824561403,0
+1244,"Dibden, Mr. William",male,2,18.0,Decision Tree,0.0,0
+1245,"Herman, Mr. Samuel",male,2,49.0,Decision Tree,0.0,0
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",female,3,0.17,Decision Tree,1.0,1
+1247,"Julian, Mr. Henry Forbes",male,1,50.0,Decision Tree,0.22727272727272727,0
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,1,59.0,Decision Tree,1.0,1
+1249,"Lockyer, Mr. Edward",male,3,,Decision Tree,0.08771929824561403,0
+1250,"O'Keefe, Mr. Patrick",male,3,,Decision Tree,0.08771929824561403,0
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,3,30.0,Decision Tree,0.6666666666666666,1
+1252,"Sage, Master. William Henry",male,3,14.5,Decision Tree,0.0,0
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",female,2,24.0,Decision Tree,1.0,1
+1254,"Ware, Mrs. John James (Florence Louise Long)",female,2,31.0,Decision Tree,1.0,1
+1255,"Strilic, Mr. Ivan",male,3,27.0,Decision Tree,0.08771929824561403,0
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",female,1,25.0,Decision Tree,1.0,1
+1257,"Sage, Mrs. John (Annie Bullen)",female,3,,Decision Tree,0.0,0
+1258,"Caram, Mr. Joseph",male,3,,Decision Tree,0.20408163265306123,0
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,3,22.0,Decision Tree,0.6666666666666666,1
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,1,45.0,Decision Tree,1.0,1
+1261,"Pallas y Castello, Mr. Emilio",male,2,29.0,Decision Tree,0.20408163265306123,0
+1262,"Giles, Mr. Edgar",male,2,21.0,Decision Tree,0.08771929824561403,0
+1263,"Wilson, Miss. Helen Alice",female,1,31.0,Decision Tree,1.0,1
+1264,"Ismay, Mr. Joseph Bruce",male,1,49.0,Decision Tree,0.0,0
+1265,"Harbeck, Mr. William H",male,2,44.0,Decision Tree,0.08771929824561403,0
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",female,1,54.0,Decision Tree,1.0,1
+1267,"Bowen, Miss. Grace Scott",female,1,45.0,Decision Tree,1.0,1
+1268,"Kink, Miss. Maria",female,3,22.0,Decision Tree,0.35294117647058826,0
+1269,"Cotterill, Mr. Henry Harry""""",male,2,21.0,Decision Tree,0.08771929824561403,0
+1270,"Hipkins, Mr. William Edward",male,1,55.0,Decision Tree,0.22727272727272727,0
+1271,"Asplund, Master. Carl Edgar",male,3,5.0,Decision Tree,0.0,0
+1272,"O'Connor, Mr. Patrick",male,3,,Decision Tree,0.08771929824561403,0
+1273,"Foley, Mr. Joseph",male,3,26.0,Decision Tree,0.08771929824561403,0
+1274,"Risien, Mrs. Samuel (Emma)",female,3,,Decision Tree,0.35294117647058826,0
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",female,3,19.0,Decision Tree,0.6666666666666666,1
+1276,"Wheeler, Mr. Edwin Frederick""""",male,2,,Decision Tree,0.08771929824561403,0
+1277,"Herman, Miss. Kate",female,2,24.0,Decision Tree,1.0,1
+1278,"Aronsson, Mr. Ernst Axel Algot",male,3,24.0,Decision Tree,0.08771929824561403,0
+1279,"Ashby, Mr. John",male,2,57.0,Decision Tree,0.08771929824561403,0
+1280,"Canavan, Mr. Patrick",male,3,21.0,Decision Tree,0.08771929824561403,0
+1281,"Palsson, Master. Paul Folke",male,3,6.0,Decision Tree,0.0,0
+1282,"Payne, Mr. Vivian Ponsonby",male,1,23.0,Decision Tree,0.75,1
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,1,51.0,Decision Tree,1.0,1
+1284,"Abbott, Master. Eugene Joseph",male,3,13.0,Decision Tree,0.08771929824561403,0
+1285,"Gilbert, Mr. William",male,2,47.0,Decision Tree,0.08771929824561403,0
+1286,"Kink-Heilmann, Mr. Anton",male,3,29.0,Decision Tree,0.08771929824561403,0
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,1,18.0,Decision Tree,1.0,1
+1288,"Colbert, Mr. Patrick",male,3,24.0,Decision Tree,0.08771929824561403,0
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,1,48.0,Decision Tree,1.0,1
+1290,"Larsson-Rondberg, Mr. Edvard A",male,3,22.0,Decision Tree,0.08771929824561403,0
+1291,"Conlon, Mr. Thomas Henry",male,3,31.0,Decision Tree,0.08771929824561403,0
+1292,"Bonnell, Miss. Caroline",female,1,30.0,Decision Tree,1.0,1
+1293,"Gale, Mr. Harry",male,2,38.0,Decision Tree,0.08771929824561403,0
+1294,"Gibson, Miss. Dorothy Winifred",female,1,22.0,Decision Tree,1.0,1
+1295,"Carrau, Mr. Jose Pedro",male,1,17.0,Decision Tree,0.0,0
+1296,"Frauenthal, Mr. Isaac Gerald",male,1,43.0,Decision Tree,0.4,0
+1297,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,2,20.0,Decision Tree,0.4,0
+1298,"Ware, Mr. William Jeffery",male,2,23.0,Decision Tree,0.08771929824561403,0
+1299,"Widener, Mr. George Dunton",male,1,50.0,Decision Tree,0.22727272727272727,0
+1300,"Riordan, Miss. Johanna Hannah""""",female,3,,Decision Tree,0.7857142857142857,1
+1301,"Peacock, Miss. Treasteall",female,3,3.0,Decision Tree,0.8,1
+1302,"Naughton, Miss. Hannah",female,3,,Decision Tree,0.7857142857142857,1
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,1,37.0,Decision Tree,1.0,1
+1304,"Henriksson, Miss. Jenny Lovisa",female,3,28.0,Decision Tree,0.6153846153846154,1
+1305,"Spector, Mr. Woolf",male,3,,Decision Tree,0.08771929824561403,0
+1306,"Oliva y Ocana, Dona. Fermina",female,1,39.0,Decision Tree,1.0,1
+1307,"Saether, Mr. Simon Sivertsen",male,3,38.5,Decision Tree,0.08771929824561403,0
+1308,"Ware, Mr. Frederick",male,3,,Decision Tree,0.08771929824561403,0
+1309,"Peter, Master. Michael J",male,3,,Decision Tree,0.20408163265306123,0

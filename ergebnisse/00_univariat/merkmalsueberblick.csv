@@ -1,0 +1,13 @@
+,Bedeutung / Typ,CSV-Datentyp,Beobachtet (n),Fehlend (n),Fehlend (%),Unterschiedliche beobachtete Werte
+PassengerId,Kennung,int64,891,0,0.0,891
+Survived,Binary target,int64,891,0,0.0,2
+Pclass,Ordinal category,int64,891,0,0.0,3
+Name,Zeichenfolge,str,891,0,0.0,891
+Sex,Nominal category,str,891,0,0.0,2
+Age,"Numerisch, Jahre",float64,714,177,19.865319865319865,88
+SibSp,Diskrete Anzahl,int64,891,0,0.0,7
+Parch,Diskrete Anzahl,int64,891,0,0.0,7
+Ticket,Zeichenfolge / Gruppenkennung,str,891,0,0.0,681
+Fare,"Numerisch, erfasster Fahrpreis",float64,891,0,0.0,248
+Cabin,Zeichenfolge,str,204,687,77.10437710437711,147
+Embarked,Nominal category,str,889,2,0.22446689113355783,3

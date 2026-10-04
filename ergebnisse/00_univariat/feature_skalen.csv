@@ -1,0 +1,13 @@
+Originalspalte,Skalengruppe,Beschreibung
+PassengerId,Nominal,Kennung; kein Eingabemerkmal
+Survived,Nominal,Überleben; kein Eingabemerkmal
+Name,Nominal,Individuelles Textfeld
+Sex,Nominal,Ungeordnete Geschlechtskategorie
+Ticket,Nominal,Ticketkennung / Textfeld
+Cabin,Nominal,Kabinenkennung / Textfeld
+Embarked,Nominal,Ungeordneter Einstiegsort
+Pclass,Kategorial (ordinal),"Geordnete Ticketklasse: 1, 2, 3"
+Age,Metrisch,Alter in Jahren
+SibSp,Metrisch,Diskrete Anzahl Geschwister/Partner
+Parch,Metrisch,Diskrete Anzahl Eltern/Kinder
+Fare,Metrisch,Erfasster Fahrpreis

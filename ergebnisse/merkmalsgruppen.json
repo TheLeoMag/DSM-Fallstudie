@@ -1,0 +1,153 @@
+{
+  "Rohdaten": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked"
+    ]
+  },
+  "Rohdaten + Status": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare",
+      "EliteStatus",
+      "HoherBerufsStatus"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked"
+    ]
+  },
+  "Rohdaten + Alter fehlt": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare",
+      "AlterFehlt"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked"
+    ]
+  },
+  "Familie + Status": {
+    "numerisch": [
+      "Age",
+      "Fare",
+      "EliteStatus",
+      "HoherBerufsStatus"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked",
+      "Familiengruppe"
+    ]
+  },
+  "Rohdaten + Kinderticket": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare",
+      "ErwachsenerKinderticket"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked"
+    ]
+  },
+  "Rohdaten + Deck": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked",
+      "Kabinendeck"
+    ]
+  },
+  "Rohdaten + Deck/Lage": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked",
+      "Kabinenlage"
+    ]
+  },
+  "Rohdaten + Deck/Lage + Alter fehlt": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare",
+      "AlterFehlt"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked",
+      "Kabinenlage"
+    ]
+  },
+  "Alle entwickelten Merkmale": {
+    "numerisch": [
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare",
+      "EliteStatus",
+      "HoherBerufsStatus",
+      "AlterFehlt",
+      "KabineFehlt",
+      "EinstiegFehlt",
+      "PreisFehlt",
+      "ErwachsenerKinderticket"
+    ],
+    "kategorisch": [
+      "Sex",
+      "Pclass",
+      "Embarked",
+      "Familiengruppe",
+      "Kabinendeck",
+      "Kabinenposition",
+      "Kabinenlage"
+    ]
+  },
+  "Titel + Familie + Logpreis": {
+    "numerisch": [
+      "Age",
+      "AlterFehlt",
+      "LogFahrpreisProPerson"
+    ],
+    "kategorisch": [
+      "Pclass",
+      "Sex",
+      "Embarked",
+      "Titel",
+      "Familiengruppe"
+    ]
+  }
+}

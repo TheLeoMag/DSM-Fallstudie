@@ -1,0 +1,7 @@
+.venv/
+.runtime/
+.cleanup_work/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.vscode/
